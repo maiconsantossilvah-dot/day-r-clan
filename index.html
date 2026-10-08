@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Day R Clan Hub | Organização de Recursos para Clãs</title>
+  <meta name="description" content="Organize estoques, pedidos, trocas e tutoriais do seu clã em uma interface comunitária para jogadores de Day R Survival.">
+  <meta name="theme-color" content="#10140f">
+  <meta name="color-scheme" content="dark light">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Day R Clan Hub">
+  <meta property="og:description" content="Organização comunitária de estoques, pedidos, trocas e tutoriais para clãs.">
+  <!-- Ao publicar, adicione sua URL em um link rel="canonical". -->
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" type="image/svg+xml" href="./assets/icons/favicon.svg">
+  <link rel="stylesheet" href="./assets/css/reset.css">
+  <link rel="stylesheet" href="./assets/css/variables.css">
+  <link rel="stylesheet" href="./assets/css/base.css">
+  <link rel="stylesheet" href="./assets/css/layout.css">
+  <link rel="stylesheet" href="./assets/css/components.css">
+    <link rel="stylesheet" href="./assets/css/responsive.css">
+    <link rel="stylesheet" href="./assets/css/item-picker.css">
+    <link rel="stylesheet" href="./assets/css/polish.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Ir para o conteúdo</a>
+  <div id="app-shell" class="app-shell" hidden>
+    <aside class="sidebar" id="sidebar" aria-label="Navegação principal">
+      <a class="brand" href="#/dashboard" aria-label="Day R Clan Hub — início">
+        <img src="./assets/icons/logo.svg" alt="" width="42" height="42" aria-hidden="true">
+        <span><strong>DAY R</strong><small>CLAN HUB</small></span>
+      </a>
+      <div class="clan-card">
+        <span class="eyebrow">POSTO ATIVO</span>
+        <strong id="sidebar-clan-name">Abrigo 07</strong>
+        <span id="sidebar-clan-tag">[A07]</span>
+      </div>
+      <nav id="primary-nav" class="primary-nav">
+        <a href="#/dashboard" data-route="dashboard"><i data-lucide="layout-dashboard"></i><span>Dashboard</span></a>
+        <a href="#/items" data-route="items"><i data-lucide="package-search"></i><span>Itens</span></a>
+        <a href="#/inventory" data-route="inventory"><i data-lucide="warehouse"></i><span>Estoque</span></a>
+        <a href="#/requests" data-route="requests"><i data-lucide="hand-helping"></i><span>Pedidos</span></a>
+        <a href="#/trades" data-route="trades"><i data-lucide="arrow-left-right"></i><span>Trocas</span></a>
+        <a href="#/tutorials" data-route="tutorials"><i data-lucide="book-open-text"></i><span>Tutoriais</span></a>
+        <a href="#/members" data-route="members"><i data-lucide="users"></i><span>Membros</span></a>
+        <a href="#/sources" data-route="sources"><i data-lucide="database-zap"></i><span>Fontes</span></a>
+        <a href="#/settings" data-route="settings"><i data-lucide="settings"></i><span>Configurações</span></a>
+      </nav>
+      <div class="sidebar-footer">
+        <span class="status-line"><span class="status-dot"></span><span id="data-mode-label">Modo demonstração</span></span>
+        <small>v0.1.0</small>
+      </div>
+    </aside>
+
+    <section class="app-stage">
+      <header class="topbar">
+        <button class="icon-button menu-toggle" id="menu-toggle" type="button" aria-label="Abrir menu" aria-controls="sidebar" aria-expanded="false"><i data-lucide="menu"></i></button>
+        <form class="global-search" id="global-search-form" role="search">
+          <i data-lucide="search" aria-hidden="true"></i>
+          <label class="sr-only" for="global-search-input">Pesquisar itens em português ou inglês, tutoriais e membros</label>
+          <input id="global-search-input" type="search" placeholder="Pesquisar em português ou inglês" autocomplete="off">
+          <kbd>Ctrl K</kbd>
+        </form>
+        <div class="topbar-actions">
+          <span class="badge badge-warning" id="demo-badge">Demonstração</span>
+          <span class="badge badge-danger" id="offline-badge" hidden>Offline</span>
+          <button class="icon-button" id="notifications-button" type="button" aria-label="Notificações"><i data-lucide="bell"></i><span class="notification-count" id="notification-count">0</span></button>
+          <button class="user-chip" id="user-menu-button" type="button" aria-label="Abrir perfil">
+            <span class="avatar" id="top-avatar">S</span>
+            <span><strong id="top-nickname">Sobrevivente</strong><small id="top-role">Membro</small></span>
+          </button>
+        </div>
+      </header>
+      <main id="main-content" class="main-content" tabindex="-1"></main>
+      <footer class="app-footer">Day R Clan Hub é um projeto comunitário não oficial e não possui vínculo com os desenvolvedores de Day R Survival. Catálogo com proveniência da <a href="https://dayr.wiki.gg" target="_blank" rel="noopener noreferrer">Day R Wiki</a>.</footer>
+    </section>
+  </div>
+
+  <main id="welcome-root"></main>
+  <div id="modal-root"></div>
+  <div id="toast-root" class="toast-region" aria-live="polite" aria-atomic="true"></div>
+  <div id="search-results" class="search-popover" hidden></div>
+  <noscript>Ative o JavaScript para usar o Day R Clan Hub.</noscript>
+  <script defer src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.js"></script>
+  <script type="module" src="./assets/js/app.js"></script>
+</body>
+</html>

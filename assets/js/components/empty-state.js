@@ -1,0 +1,2 @@
+import { escapeHTML, icon } from "../utils/helpers.js";
+export const emptyState = ({ title, message, action = "", actionLabel = "Começar", iconName = "package-open" }) => `<div class="empty-state">${icon(iconName)}<h3>${escapeHTML(title)}</h3><p>${escapeHTML(message)}</p>${action ? `<button class="button button-primary" type="button" data-action="${escapeHTML(action)}">${escapeHTML(actionLabel)}</button>` : ""}</div>`;

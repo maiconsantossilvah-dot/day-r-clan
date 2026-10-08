@@ -1,0 +1,12 @@
+{
+  "name": "Day R Clan Hub",
+  "short_name": "Clan Hub",
+  "description": "Organização comunitária de estoques, pedidos, trocas, catálogo e tutoriais para clãs.",
+  "lang": "pt-BR",
+  "start_url": "./#/dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c100d",
+  "theme_color": "#10140f",
+  "icons": [{ "src": "./assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

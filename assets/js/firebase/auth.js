@@ -1,0 +1,6 @@
+import { initializeFirebase } from "./firebase.js";
+export async function observeAuth(config, callback) { const { auth, authSdk } = await initializeFirebase(config); return authSdk.onAuthStateChanged(auth, callback); }
+export async function signIn(config, email, password) { const { auth, authSdk } = await initializeFirebase(config); return authSdk.signInWithEmailAndPassword(auth, email, password); }
+export async function signUp(config, email, password, nickname) { const { auth, authSdk } = await initializeFirebase(config); const credential = await authSdk.createUserWithEmailAndPassword(auth, email, password); await authSdk.updateProfile(credential.user, { displayName: nickname }); return credential; }
+export async function signOutUser(config) { const { auth, authSdk } = await initializeFirebase(config); return authSdk.signOut(auth); }
+export const firebaseErrorMessage = error => ({ "auth/invalid-credential": "E-mail ou senha incorretos.", "auth/email-already-in-use": "Este e-mail já está em uso.", "auth/weak-password": "Use uma senha com pelo menos 6 caracteres.", "auth/invalid-email": "E-mail inválido.", "auth/too-many-requests": "Muitas tentativas. Tente novamente mais tarde." }[error?.code] || "Não foi possível concluir a autenticação.");

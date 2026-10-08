@@ -1,0 +1,23 @@
+.item-picker-search {
+  margin-bottom: 2px;
+}
+
+.item-picker-preview {
+  margin-top: 2px;
+  min-height: 50px;
+  padding: 7px 9px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--bg-secondary);
+}
+
+.item-picker-preview .item-thumb {
+  width: 36px;
+  height: 36px;
+}
+
+.item-picker-preview small {
+  display: block;
+  margin-top: 2px;
+  color: var(--text-secondary);
+}

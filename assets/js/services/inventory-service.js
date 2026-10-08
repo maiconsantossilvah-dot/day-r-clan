@@ -1,0 +1,5 @@
+import { addActivity, getState, updateState } from "./storage-service.js";
+import { now, uid } from "../utils/helpers.js";
+export const listInventory = () => getState().inventories;
+export function saveInventory(values, id = "") { let saved; updateState(state => { const existing = state.inventories.find(entry => entry.id === id); if (existing) { Object.assign(existing, values, { updatedAt: now() }); saved = existing; } else { saved = { id: uid("inv"), clanId: state.clan.id, ...values, updatedAt: now() }; state.inventories.push(saved); } addActivity({ type: "inventory_updated", entityType: "inventory", entityId: saved.id, message: `${state.profile.nickname} atualizou um registro de estoque.` }); }); return saved; }
+export function removeInventory(id) { updateState(state => { state.inventories = state.inventories.filter(x => x.id !== id); addActivity({ type: "inventory_removed", entityType: "inventory", entityId: id, message: `${state.profile.nickname} removeu um registro de estoque.` }); }); }

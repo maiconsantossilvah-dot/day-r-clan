@@ -1,0 +1,90 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() { return request.auth != null; }
+    function memberPath(clanId) { return /databases/$(database)/documents/clanMembers/$(clanId + '_' + request.auth.uid); }
+    function isMember(clanId) { return signedIn() && exists(memberPath(clanId)); }
+    function memberData(clanId) { return get(memberPath(clanId)).data; }
+    function isAdmin(clanId) { return isMember(clanId) && memberData(clanId).role in ['owner', 'admin']; }
+    function isOwner(clanId) { return isMember(clanId) && memberData(clanId).role == 'owner'; }
+    function sameClan() { return resource.data.clanId is string && isMember(resource.data.clanId); }
+    function newSameClan() { return request.resource.data.clanId is string && isMember(request.resource.data.clanId); }
+    function owns(field) { return signedIn() && resource.data[field] == request.auth.uid; }
+    function newOwns(field) { return signedIn() && request.resource.data[field] == request.auth.uid; }
+
+    match /users/{userId} {
+      allow read, create, update: if signedIn() && request.auth.uid == userId;
+      allow delete: if false;
+    }
+    match /clans/{clanId} {
+      allow create: if signedIn() && request.resource.data.ownerId == request.auth.uid;
+      allow read: if isMember(clanId);
+      allow update: if isAdmin(clanId);
+      allow delete: if isOwner(clanId);
+    }
+    match /clanInvites/{code} {
+      allow get: if signedIn();
+      allow list: if false;
+      allow create: if signedIn() && get(/databases/$(database)/documents/clans/$(request.resource.data.clanId)).data.ownerId == request.auth.uid;
+      allow update, delete: if sameClan() && isOwner(resource.data.clanId);
+    }
+    match /clanMembers/{memberId} {
+      allow read: if sameClan();
+      allow create: if signedIn() && request.resource.data.userId == request.auth.uid && (
+        get(/databases/$(database)/documents/clans/$(request.resource.data.clanId)).data.ownerId == request.auth.uid ||
+        (request.resource.data.inviteCode is string && exists(/databases/$(database)/documents/clanInvites/$(request.resource.data.inviteCode)) && get(/databases/$(database)/documents/clanInvites/$(request.resource.data.inviteCode)).data.clanId == request.resource.data.clanId)
+      );
+      allow update: if sameClan() && (isAdmin(resource.data.clanId) || resource.data.userId == request.auth.uid) && (isAdmin(resource.data.clanId) || request.resource.data.role == resource.data.role);
+      allow delete: if sameClan() && isAdmin(resource.data.clanId) && resource.data.role != 'owner';
+    }
+    match /items/{id} {
+      allow read: if sameClan();
+      allow create: if newSameClan() && isAdmin(request.resource.data.clanId) && request.resource.data.sourceKind == 'clan';
+      allow update, delete: if sameClan() && isAdmin(resource.data.clanId) && resource.data.sourceKind == 'clan';
+    }
+    match /inventories/{id} {
+      allow read: if sameClan();
+      allow create: if newSameClan() && (newOwns('userId') || isAdmin(request.resource.data.clanId));
+      allow update, delete: if sameClan() && (owns('userId') || isAdmin(resource.data.clanId));
+    }
+    match /requests/{id} {
+      allow read: if sameClan();
+      allow create: if newSameClan() && newOwns('creatorId');
+      allow update: if sameClan() && (owns('creatorId') || isAdmin(resource.data.clanId) || (request.resource.data.diff(resource.data).affectedKeys().hasOnly(['fulfilledQuantity', 'status', 'updatedAt']) && request.resource.data.fulfilledQuantity >= resource.data.fulfilledQuantity));
+      allow delete: if sameClan() && (owns('creatorId') || isAdmin(resource.data.clanId));
+    }
+    match /requestContributions/{id} {
+      allow read: if sameClan();
+      allow create: if newSameClan() && newOwns('userId');
+      allow update, delete: if sameClan() && (owns('userId') || isAdmin(resource.data.clanId));
+    }
+    match /trades/{id} {
+      allow read: if sameClan();
+      allow create: if newSameClan() && newOwns('creatorId');
+      allow update: if sameClan() && (owns('creatorId') || resource.data.accepterId == request.auth.uid || isAdmin(resource.data.clanId));
+      allow delete: if sameClan() && (owns('creatorId') || isAdmin(resource.data.clanId));
+    }
+    match /exchangeRates/{id} {
+      allow read: if sameClan();
+      allow create: if newSameClan() && isAdmin(request.resource.data.clanId);
+      allow update, delete: if sameClan() && isAdmin(resource.data.clanId);
+    }
+    match /tutorials/{id} {
+      allow read: if sameClan();
+      allow create: if newSameClan() && newOwns('authorId');
+      allow update, delete: if sameClan() && (owns('authorId') || isAdmin(resource.data.clanId));
+    }
+    match /activities/{id} {
+      allow read: if sameClan();
+      allow create: if newSameClan();
+      allow update: if sameClan() && resource.data.userId == request.auth.uid && request.resource.data == resource.data;
+      allow delete: if false;
+    }
+    match /notifications/{id} {
+      allow read: if sameClan() && (resource.data.userId == request.auth.uid || isAdmin(resource.data.clanId));
+      allow create: if newSameClan();
+      allow update: if sameClan() && resource.data.userId == request.auth.uid;
+      allow delete: if sameClan() && (resource.data.userId == request.auth.uid || isAdmin(resource.data.clanId));
+    }
+  }
+}

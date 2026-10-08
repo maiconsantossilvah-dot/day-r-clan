@@ -1,0 +1,9 @@
+export const APP_VERSION = "0.1.0";
+export const STORAGE_KEY = "day-r-clan-hub:v1";
+export const ITEM_CATEGORIES = ["Recursos","Comida","Água","Medicamentos","Combustíveis","Munição","Armas","Armaduras","Ferramentas","Veículos","Peças","Componentes","Itens de missão","Outros"];
+export const TUTORIAL_CATEGORIES = ["Iniciantes","Crafting","Combate","Recursos","Veículos","Bases","Eventos","Missões","Economia","Trocas","Outros"];
+export const ROLES = ["owner","admin","member","viewer"];
+export const ROLE_LABELS = { owner: "Proprietário", admin: "Administrador", member: "Membro", viewer: "Visitante" };
+export const STATUS_LABELS = { open: "Aberto", partial: "Parcial", completed: "Concluído", cancelled: "Cancelado", reserved: "Reservado", waiting_delivery: "Aguardando entrega", draft: "Rascunho", published: "Publicado", normal: "Normal", high: "Alta", urgent: "Urgente", clan: "Tabela do clã", community: "Valor comunitário", npc: "NPC / oficial informado" };
+export const ROUTES = ["dashboard","items","inventory","requests","trades","tutorials","members","sources","settings","login"];
+export const PLACEHOLDER_IMAGE = "./assets/images/placeholders/item-placeholder.svg";

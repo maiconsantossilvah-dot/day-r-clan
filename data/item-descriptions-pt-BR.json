@@ -1,0 +1,1755 @@
+{
+  "schemaVersion": 1,
+  "locale": "pt-BR",
+  "sourceLocale": "en",
+  "sourceName": "Day R Wiki",
+  "generatedAt": "2026-10-08T12:45:26.613138Z",
+  "engine": "Argos Translate en→pt 1.9 + léxico pt-BR",
+  "itemCount": 436,
+  "entries": {
+    "wiki-15997": {
+      "sourceRevisionId": 56980,
+      "translatedText": "Graças a este manual, você será capaz de lançar redes na água. Em breve, você terá uma boa quantidade de peixe fresco."
+    },
+    "wiki-10606": {
+      "sourceRevisionId": 54218,
+      "translatedText": "Permite criar uma alimentação universal que satisfaça qualquer animal de estimação."
+    },
+    "wiki-1859": {
+      "sourceRevisionId": 5626,
+      "translatedText": "Permite encontrar notas da tríade ao procurar edifícios. Levarão ao seu lugar secreto."
+    },
+    "wiki-2976": {
+      "sourceRevisionId": 53830,
+      "translatedText": "Uma arma universal para caçar e lutar."
+    },
+    "wiki-8106": {
+      "sourceRevisionId": 54426,
+      "translatedText": "Você pode obter ácido sulfúrico desta glândula."
+    },
+    "wiki-15862": {
+      "sourceRevisionId": 56703,
+      "translatedText": "Cria zonas no campo de batalha que causam danos ácidos. Tem um grande raio de efeito."
+    },
+    "wiki-3846": {
+      "sourceRevisionId": 53613,
+      "translatedText": "Métodos de antiga prática de cura ajudarão na batalha e sobrevivência."
+    },
+    "wiki-2046": {
+      "sourceRevisionId": 6244,
+      "translatedText": "Um fato especial criado para proteção contra esporos. Também proporciona uma ligeira vantagem em batalhas contra biomutantes."
+    },
+    "wiki-8938": {
+      "sourceRevisionId": 28575,
+      "translatedText": "Uma versão melhorada da AIDA. Ele protege o usuário do efeito dos esporos e ajuda na luta contra os biomutantes."
+    },
+    "wiki-13587": {
+      "sourceRevisionId": 43203,
+      "translatedText": "Um novo protótipo desenvolvido pelo Progress. Isto é usado para trabalhar nas zonas mais perigosas das cidades tomadas pela vegetação."
+    },
+    "wiki-15736": {
+      "sourceRevisionId": 56494,
+      "translatedText": "Eficaz contra inimigos individuais. Perde precisão com cada tiro, mas aumenta sua precisão se usado para matar um inimigo."
+    },
+    "wiki-2979": {
+      "sourceRevisionId": 53672,
+      "translatedText": "Com esta arma misteriosa, todos os ataques serão simplesmente cósmicos."
+    },
+    "wiki-15196": {
+      "sourceRevisionId": 54541,
+      "translatedText": "A sorte favorece os audazes: dispara! Cada ataque subsequente com esta arma consome menos AP."
+    },
+    "wiki-12449": {
+      "sourceRevisionId": 40132,
+      "translatedText": "Cura todas as doenças, lesões e efeitos negativos."
+    },
+    "wiki-626": {
+      "sourceRevisionId": 54029,
+      "translatedText": "A sucata pode ser coletada de peças de reposição de carros e eletrodomésticos. É fundido em uma fundição em um lingote de alumínio."
+    },
+    "wiki-3389": {
+      "sourceRevisionId": 10834,
+      "translatedText": "Agaric mosca vermelha que é difícil de detectar neste pântano"
+    },
+    "wiki-13039": {
+      "sourceRevisionId": 50309,
+      "translatedText": "Necessário para tratar várias doenças"
+    },
+    "wiki-8568": {
+      "sourceRevisionId": 27208,
+      "translatedText": "Com esta mochila de um revendedor de lixo experiente, você vai encontrar o dobro de itens para revenda ao pesquisar edifícios."
+    },
+    "wiki-4049": {
+      "sourceRevisionId": 50310,
+      "translatedText": "Salvação da radiação."
+    },
+    "wiki-12240": {
+      "sourceRevisionId": 50313,
+      "translatedText": "Equipamento lendário de inverno. Com isto, ficarias bem mesmo no Pólo Norte nas patas de um urso polar."
+    },
+    "wiki-4405": {
+      "sourceRevisionId": 53426,
+      "translatedText": "Pode viajar através de qualquer tipo de terreno na mesma velocidade. Não precisa de reparos"
+    },
+    "wiki-12409": {
+      "sourceRevisionId": 56582,
+      "translatedText": "Fabricado na oficina de Irkutsk."
+    },
+    "wiki-6310": {
+      "sourceRevisionId": 19904,
+      "translatedText": "Placas blindadas de metal e couro deram a este equipamento uma nova vida. Em armaduras como esta, pode atacar tudo, desde uma base de bandidos até uma toca mutante."
+    },
+    "wiki-11964": {
+      "sourceRevisionId": 56430,
+      "translatedText": "Equipamento militar profissional encontrado em armazéns militares."
+    },
+    "wiki-11441": {
+      "sourceRevisionId": 53854,
+      "translatedText": "Cartuchos 5.45x39mm. Você pode usá-lo com a AK-74, AKS74U, ou RPK-74."
+    },
+    "wiki-14486": {
+      "sourceRevisionId": 53667,
+      "translatedText": "Atravesse o deserto usando energia atômica! O transporte não quebra e não requer combustível."
+    },
+    "wiki-15679": {
+      "sourceRevisionId": 55556,
+      "translatedText": "Este pacote foi esquecido no casino por certo Cidadão Zero. Quanto mais radiação se acumula, maior é a capacidade. A radiação acumulada pode ser transferida para a embalagem."
+    },
+    "wiki-15448": {
+      "sourceRevisionId": 54852,
+      "translatedText": "Suas orações foram ouvidas. Maior precisão. Ao matar um inimigo com esta arma, os danos de todas as armas aumentam."
+    },
+    "wiki-14458": {
+      "sourceRevisionId": 53590,
+      "translatedText": "Agitar presentes soltos como um polícia mau bate em uma confissão. Até os arbustos vão rachar depois de uns tiros."
+    },
+    "wiki-3623": {
+      "sourceRevisionId": 11566,
+      "translatedText": "Elder Jiang Yue coleta objetos de valor chineses apropriados por bandidos da tríade. Ele vai trocar este item por moedas. Tais itens podem ser encontrados em cidades arruinadas."
+    },
+    "wiki-15716": {
+      "sourceRevisionId": 56453,
+      "translatedText": "Permite cozinhar peixe e criar um estoque de comida que não vai mal."
+    },
+    "wiki-15266": {
+      "sourceRevisionId": 54542,
+      "translatedText": "Permite criar coletes Kevlar e granadas Joker."
+    },
+    "wiki-8885": {
+      "sourceRevisionId": 55273,
+      "translatedText": "É utilizado na produção de álcool."
+    },
+    "wiki-12460": {
+      "sourceRevisionId": 52655,
+      "translatedText": "Mantém os dispositivos portáteis a funcionar"
+    },
+    "wiki-3127": {
+      "sourceRevisionId": 9993,
+      "translatedText": "Pode ser vendido a um comprador em um acordo para um lucro."
+    },
+    "wiki-126": {
+      "sourceRevisionId": 53448,
+      "translatedText": "A bebida mais refrescante que você pode encontrar em qualquer bar no Submundo. Esqueletos recebem uma esfregona junto com sua bebida."
+    },
+    "wiki-8481": {
+      "sourceRevisionId": 54227,
+      "translatedText": "Uma vez que um caminhão de transporte, agora é um motor nuclear que já não precisa de combustível. Tem alta capacidade de transporte."
+    },
+    "wiki-2885": {
+      "sourceRevisionId": 9248,
+      "translatedText": "Ajuda-te a trabalhar com uma chaminé forjada."
+    },
+    "wiki-14473": {
+      "sourceRevisionId": 53597,
+      "translatedText": "Um bônus de danos para cada alvo derrotado, agora isso é bom espírito esportivo!"
+    },
+    "wiki-8218": {
+      "sourceRevisionId": 54094,
+      "translatedText": "Uma bicicleta aumenta significativamente sua velocidade de movimento através da área"
+    },
+    "wiki-7881": {
+      "sourceRevisionId": 54095,
+      "translatedText": "Uma bicicleta aumenta significativamente sua velocidade de deslocamento pela área. O carrinho permite carregar coisas pesadas."
+    },
+    "wiki-14895": {
+      "sourceRevisionId": 54543,
+      "translatedText": "Uma arma mortal! Pode eliminar qualquer oponente, ignorando toda a armadura."
+    },
+    "wiki-15177": {
+      "sourceRevisionId": 54787,
+      "translatedText": "O campo de batalha é a tua mesa de jogo. \"Atravessar\" fileiras de inimigos e deixar sangrar cuidar do resto."
+    },
+    "wiki-1431": {
+      "sourceRevisionId": 4468,
+      "translatedText": "Um poderoso impulso de energia. Edição limitada."
+    },
+    "wiki-7639": {
+      "sourceRevisionId": 52275,
+      "translatedText": "O projeto E.M.B.A. não foi concluído, mas este desenvolvimento médico conseguiu entrar em produção limitada."
+    },
+    "wiki-7627": {
+      "sourceRevisionId": 53492,
+      "translatedText": "Aumenta o tempo de armazenamento dos itens e aumenta a eficácia da coleta de ervas. Uma invenção dos biólogos Progress para trabalhar no campo."
+    },
+    "wiki-3284": {
+      "sourceRevisionId": 50332,
+      "translatedText": "Procurar edifícios revela trilhas de atividade biológica. Os biomutantes podem ser localizados a partir da informação recolhida."
+    },
+    "wiki-6323": {
+      "sourceRevisionId": 54416,
+      "translatedText": "Este concentrado é utilizado para a produção de combustível para qualquer tipo de transporte."
+    },
+    "wiki-10540": {
+      "sourceRevisionId": 56517,
+      "translatedText": "Extraído de micélio. Os cientistas estão estudando a biomassa e criam protótipos de dispositivos úteis usando-a como base."
+    },
+    "wiki-15775": {
+      "sourceRevisionId": 56506,
+      "translatedText": "Os biomateriais do projeto EMBA devem ser entregues a Maria, a geneticista Progress. Encontram - se em cidades arruinadas, ao procurarem em prédios tomados pela vegetação e em casas sobreviventes."
+    },
+    "wiki-2806": {
+      "sourceRevisionId": 8691,
+      "translatedText": "Biomateriais do projeto EMBA devem ser entregues a Maria, a geneticista Progress. Encontram - se em cidades arruinadas, ao procurarem em prédios tomados pela vegetação e em casas sobreviventes."
+    },
+    "wiki-8082": {
+      "sourceRevisionId": 51750,
+      "translatedText": "Biomateriais do projeto EMBA devem ser entregues a Maria, a geneticista Progress. Encontram - se em cidades arruinadas, ao procurarem em prédios tomados pela vegetação e em casas sobreviventes."
+    },
+    "wiki-6922": {
+      "sourceRevisionId": 21701,
+      "translatedText": "Biomateriais do projeto EMBA devem ser entregues a Maria, a geneticista Progress. Encontram - se em cidades arruinadas, ao procurarem em prédios tomados pela vegetação e em casas sobreviventes."
+    },
+    "wiki-1340": {
+      "sourceRevisionId": 4164,
+      "translatedText": "Biomateriais do projeto EMBA devem ser entregues a Maria, a geneticista Progress. Encontram - se em cidades arruinadas, ao procurarem em prédios tomados pela vegetação e em casas sobreviventes."
+    },
+    "wiki-4189": {
+      "sourceRevisionId": 13180,
+      "translatedText": "Biomateriais do projeto EMBA devem ser entregues a Maria, a geneticista Progress. Encontram - se em cidades arruinadas, ao procurarem em prédios tomados pela vegetação e em casas sobreviventes."
+    },
+    "wiki-15794": {
+      "sourceRevisionId": 56552,
+      "translatedText": "Desbloqueia um espaço adicional na fogueira."
+    },
+    "wiki-3920": {
+      "sourceRevisionId": 55254,
+      "translatedText": "Um dos protótipos mais práticos criados pelo Progress. Permite que a biomassa seja transformada em recursos úteis."
+    },
+    "wiki-15797": {
+      "sourceRevisionId": 56562,
+      "translatedText": "A biomassa diluída com água em condições especiais é uma ótima maneira de se manter hidratada. O sabor é incomum, mas protege contra a radiação!"
+    },
+    "wiki-15121": {
+      "sourceRevisionId": 54545,
+      "translatedText": "Chip do casino Jackpot. Usado na loja de eventos. Obtido por virar cartas marcadas na janela do evento. Cartões marcados podem ser encontrados em cidades - em casas de jogos e em pistas de dança."
+    },
+    "wiki-8968": {
+      "sourceRevisionId": 28660,
+      "translatedText": "Excelente fonte de fogo. Também utilizado na fundição de ferro e aço Pode ser encontrado em salas de caldeiras, centrais eléctricas e outras instalações de energia. Às vezes encontrado em armazéns."
+    },
+    "wiki-15249": {
+      "sourceRevisionId": 55120,
+      "translatedText": "Lutar contra trapaceiros e bandidos é uma causa nobre. Ainda melhor quando vale a pena."
+    },
+    "wiki-15958": {
+      "sourceRevisionId": 56975,
+      "translatedText": "Preciso de localizar e matar mutantes perigosos. O Forester me disse para trazer troféus como prova das minhas habilidades de caça."
+    },
+    "wiki-15108": {
+      "sourceRevisionId": 55559,
+      "translatedText": "Embora ele não se desgasta, ele tem uma chance de quebrar com cada uso. Tem uma pequena oportunidade de encontrar bilhetes de loteria Black Deck. Assim que forem encontrados bilhetes suficientes, obtém-se as coordenadas de um stock de prémios!"
+    },
+    "wiki-15182": {
+      "sourceRevisionId": 54548,
+      "translatedText": "Cálculo e sorte: esta espingarda pode infligir ferimentos terríveis que não vão deixar o oponente vivo por muito tempo."
+    },
+    "wiki-145": {
+      "sourceRevisionId": 441,
+      "translatedText": "Cartucho de construção e instalação D4."
+    },
+    "wiki-9019": {
+      "sourceRevisionId": 51074,
+      "translatedText": "Pode ser encontrada em pântanos radioactivos."
+    },
+    "wiki-5639": {
+      "sourceRevisionId": 17715,
+      "translatedText": "Uma lata inteira de leite condensado cozido vai deixá-lo voltar à sua infância"
+    },
+    "wiki-13295": {
+      "sourceRevisionId": 54444,
+      "translatedText": "O sabor do milho cozido vai deixar-te voltar à tua infância"
+    },
+    "wiki-205": {
+      "sourceRevisionId": 52018,
+      "translatedText": "Lidar com bunker e portas de cofre."
+    },
+    "wiki-11340": {
+      "sourceRevisionId": 56590,
+      "translatedText": "Use esta cola e trapos para juntar alguns pedaços."
+    },
+    "wiki-12033": {
+      "sourceRevisionId": 53480,
+      "translatedText": "Protege contra balas perdidas, mas funciona melhor contra garras de monstro e feitiços."
+    },
+    "wiki-10516": {
+      "sourceRevisionId": 33736,
+      "translatedText": "Um poderoso lança-chamas usando combustível químico auto-regenerante."
+    },
+    "wiki-2213": {
+      "sourceRevisionId": 6768,
+      "translatedText": "Este arroz está bem cozido!"
+    },
+    "wiki-10102": {
+      "sourceRevisionId": 32129,
+      "translatedText": "Banana de folhas largas. surpreendentemente verde para uma planta no deserto"
+    },
+    "wiki-2834": {
+      "sourceRevisionId": 8826,
+      "translatedText": "Esta é uma moto Urais quebrada com um sidecar. Talvez eu possa repará-lo."
+    },
+    "wiki-4613": {
+      "sourceRevisionId": 51859,
+      "translatedText": "Planos ambiciosos para criar um traje de batalha perfeito existiam apenas papel. O Progress compilou todos os desenvolvimentos e finalmente criou esta obra-prima."
+    },
+    "wiki-8318": {
+      "sourceRevisionId": 53119,
+      "translatedText": "Equipamento militar profissional encontrado em armazéns militares."
+    },
+    "wiki-12014": {
+      "sourceRevisionId": 38619,
+      "translatedText": "Um fato de coelho de Páscoa feito à mão. Não vai encontrar outro destes nos terrenos baldios."
+    },
+    "wiki-5902": {
+      "sourceRevisionId": 18569,
+      "translatedText": "A comida preferida dos Coelhinhos da Páscoa."
+    },
+    "wiki-1924": {
+      "sourceRevisionId": 51221,
+      "translatedText": "Onde quer que estejas, abre a porta para um mundo de grandes negócios. Uma oferta especial para cada temporada! Nós entregamos."
+    },
+    "wiki-15476": {
+      "sourceRevisionId": 54900,
+      "translatedText": "Todas as facas e ganchos no fundo deste saco podem ser perturbadoras... Mas vale a pena a velocidade e a eficiência que concedem enquanto trabalham com carcaças!"
+    },
+    "wiki-15416": {
+      "sourceRevisionId": 54803,
+      "translatedText": "A mesma carrinha de todas as histórias assustadoras, a caminho de tua casa. Que histórias vão contar sobre isso agora que estás ao volante?"
+    },
+    "wiki-15678": {
+      "sourceRevisionId": 55555,
+      "translatedText": "A faca favorita do vigarista de rua. Se usado para matar um inimigo, aplica o efeito Sprint."
+    },
+    "wiki-15009": {
+      "sourceRevisionId": 53462,
+      "translatedText": "Um soro anti-radiação da Califórnia."
+    },
+    "wiki-15197": {
+      "sourceRevisionId": 54549,
+      "translatedText": "Um perfume soviético clássico que desencoraja até mesmo o mutante radioativo mais faminto atacando. Evita ataques inimigos aleatórios."
+    },
+    "wiki-15475": {
+      "sourceRevisionId": 54928,
+      "translatedText": "Um longo sono concede o repouso dos excluídos. Reduz os danos hemorrágicos e aumenta o alcance dos movimentos na batalha."
+    },
+    "wiki-10820": {
+      "sourceRevisionId": 55089,
+      "translatedText": "Um doce para o espírito de Natal."
+    },
+    "wiki-15675": {
+      "sourceRevisionId": 55550,
+      "translatedText": "Sim, só feijão, talvez queiras que o Zo deixe a tenda aberta à noite."
+    },
+    "wiki-15206": {
+      "sourceRevisionId": 54551,
+      "translatedText": "Para emergências. Submarinos foram fornecidos com este tipo de água enlatada. Nunca se sabe quanto resta lá dentro."
+    },
+    "wiki-3614": {
+      "sourceRevisionId": 54552,
+      "translatedText": "Você pode trocar bonés por novos itens na loja."
+    },
+    "wiki-10987": {
+      "sourceRevisionId": 54242,
+      "translatedText": "Uma bateria de carro que é adequado para uso."
+    },
+    "wiki-3912": {
+      "sourceRevisionId": 54012,
+      "translatedText": "Um carrinho ajuda você a carregar mais itens"
+    },
+    "wiki-15802": {
+      "sourceRevisionId": 56597,
+      "translatedText": "Recomendado para atirar em um alvo cercado por adversários. Uma vez atingido, o alvo e todos à sua volta tornam-se vulneráveis a danos."
+    },
+    "wiki-15477": {
+      "sourceRevisionId": 54902,
+      "translatedText": "A bebida ardente fará você correr mais rápido do que os Quatro Cavaleiros do Apocalipse combinados!"
+    },
+    "wiki-9786": {
+      "sourceRevisionId": 50377,
+      "translatedText": "Um saco de cimento padrão, 25 kg. Parece que ainda é utilizável."
+    },
+    "wiki-2810": {
+      "sourceRevisionId": 51175,
+      "translatedText": "Desenvolvido pelos cientistas da S.O.V.A. É raro se deparar com uma distância distante de suas cidades."
+    },
+    "wiki-2742": {
+      "sourceRevisionId": 52977,
+      "translatedText": "Lendária motosserra soviética Druzhba. Pode usá-lo para coletar madeira depressa."
+    },
+    "wiki-11965": {
+      "sourceRevisionId": 38472,
+      "translatedText": "Pode desenterrar o carvão."
+    },
+    "wiki-9217": {
+      "sourceRevisionId": 29604,
+      "translatedText": "Esta pilha de carvão ainda está a arder, não lhe devias tocar."
+    },
+    "wiki-15782": {
+      "sourceRevisionId": 56560,
+      "translatedText": "Reduz os danos causados pelo alvo. Recomendado para atirar várias vezes em inimigos de alto dano."
+    },
+    "wiki-5052": {
+      "sourceRevisionId": 55147,
+      "translatedText": "É um conjunto de química estacionária. Não se desgasta."
+    },
+    "wiki-6043": {
+      "sourceRevisionId": 50383,
+      "translatedText": "Frascos, tubos de ensaio e outros itens que são usados para sintetizar produtos químicos."
+    },
+    "wiki-14320": {
+      "sourceRevisionId": 54953,
+      "translatedText": "Contém um cartão de pele aleatório. Deve ser aberto no acampamento."
+    },
+    "wiki-9006": {
+      "sourceRevisionId": 50385,
+      "translatedText": "Um lança-chamas por castigar qualquer um da lista de marotos este ano."
+    },
+    "wiki-2658": {
+      "sourceRevisionId": 53510,
+      "translatedText": "Desenvolvido por militares chineses - portanto, fornece proteção especialmente boa em lutas contra gangues de tríade criminosa."
+    },
+    "wiki-13482": {
+      "sourceRevisionId": 42794,
+      "translatedText": "Usado para negociar com convidados da China. Elder Jiang Yue dá-lhes para certos itens e para lutar contra a tríade."
+    },
+    "wiki-8477": {
+      "sourceRevisionId": 26865,
+      "translatedText": "Tintura revigorante feita de raiz de ginseng."
+    },
+    "wiki-1436": {
+      "sourceRevisionId": 53507,
+      "translatedText": "Pode ser lançado para o ar, mas é melhor direccionado para os adversários."
+    },
+    "wiki-15720": {
+      "sourceRevisionId": 56405,
+      "translatedText": "Elder Jiang Yue coleta objetos de valor chineses apropriados por bandidos da tríade. Ele vai trocar este item por moedas. Tais itens podem ser encontrados em cidades arruinadas."
+    },
+    "wiki-3107": {
+      "sourceRevisionId": 53441,
+      "translatedText": "Velho Lore: Mutantes adaptaram-se melhor ao meio ambiente e aos perigos das terras radioactivas. Sua leve e durável quitina fornece uma extraordinária quantidade de proteção."
+    },
+    "wiki-12595": {
+      "sourceRevisionId": 50392,
+      "translatedText": "A antiga besta chinesa serve bem no mundo do apocalipse."
+    },
+    "wiki-3336": {
+      "sourceRevisionId": 53381,
+      "translatedText": "Nutritivo e decisivo! Uma rara iguaria no deserto."
+    },
+    "wiki-15674": {
+      "sourceRevisionId": 55548,
+      "translatedText": "Saboroso e cheio. Não exageres, os dentistas são difíceis de encontrar."
+    },
+    "wiki-1409": {
+      "sourceRevisionId": 4417,
+      "translatedText": "Um prazer divertido e festivo, dá força quando você está em um arranhão."
+    },
+    "wiki-9128": {
+      "sourceRevisionId": 50394,
+      "translatedText": "Feliz Natal e Feliz Ano Novo!"
+    },
+    "wiki-5771": {
+      "sourceRevisionId": 18143,
+      "translatedText": "Em cidades destruídas, a tríade esconde esconderijos e os protege com fechaduras combinadas. Aqui está o código de um deles. Você pode encontrar essas combinações nos campos de treinamento da tríade nas cidades."
+    },
+    "wiki-12369": {
+      "sourceRevisionId": 39758,
+      "translatedText": "Bom combustível, também útil para filtros e criação de itens no laboratório de química."
+    },
+    "wiki-15199": {
+      "sourceRevisionId": 54554,
+      "translatedText": "Um tiro avistado disto, e nenhum vigarista será capaz de se esconder. Aplica um efeito que aumenta a chance de sucesso de um Colecionador."
+    },
+    "wiki-8982": {
+      "sourceRevisionId": 54132,
+      "translatedText": "Fato Hazmat reforçado com couro grosso e placas de metal. ainda fornece proteção substancial contra a radiação, mas agora é muito mais útil na batalha"
+    },
+    "wiki-13592": {
+      "sourceRevisionId": 43209,
+      "translatedText": "Um concentrado de nutrientes compacto, foi desenvolvido na EMBA para o programa espacial e outras condições extremas."
+    },
+    "wiki-14964": {
+      "sourceRevisionId": 54555,
+      "translatedText": "Inflige feridas persistentes e tritura tendões como teias de aranha!"
+    },
+    "wiki-2099": {
+      "sourceRevisionId": 54402,
+      "translatedText": "Uma lata inteira de leite condensado irá reduzir imediatamente a sua fome"
+    },
+    "wiki-14609": {
+      "sourceRevisionId": 51629,
+      "translatedText": "Contém um cartão de pele aleatório. Deve ser aberto no acampamento."
+    },
+    "wiki-13237": {
+      "sourceRevisionId": 42204,
+      "translatedText": "A sucata pode ser coletada de moedas e cabos. É derretido em uma fundição em um lingote de cobre."
+    },
+    "wiki-13495": {
+      "sourceRevisionId": 54445,
+      "translatedText": "Deve ser cozido durante 6 horas."
+    },
+    "wiki-15912": {
+      "sourceRevisionId": 56769,
+      "translatedText": "Com um bônus de danos para cada aliado (até 15%), seu esquadrão será invencível! Além disso, excelente resistência à radiação e maior capacidade de transporte proporcionam uma vantagem de sobrevivência."
+    },
+    "wiki-5272": {
+      "sourceRevisionId": 50411,
+      "translatedText": "Pequenas bagas quase escondidas na escova grossa"
+    },
+    "wiki-15616": {
+      "sourceRevisionId": 55481,
+      "translatedText": "Eficaz contra alvos não blindados a longo prazo. Ignora o contra-ataque do alvo."
+    },
+    "wiki-8584": {
+      "sourceRevisionId": 51157,
+      "translatedText": "Moificação exclusiva da pistola Tipo 64, desenvolvida para as unidades especiais do exército chinês."
+    },
+    "wiki-12668": {
+      "sourceRevisionId": 55257,
+      "translatedText": "Criaturas mágicas vêm e vão, mas o comércio é eterno. Use esta moeda para convocar um comerciante de outro mundo para uma troca mutuamente benéfica"
+    },
+    "wiki-2193": {
+      "sourceRevisionId": 50415,
+      "translatedText": "Uma revolta de robôs nunca foi tão festiva. Construa seu próprio exército de cybersnowmen!"
+    },
+    "wiki-11256": {
+      "sourceRevisionId": 53751,
+      "translatedText": "Corta rapidamente inimigos com rajadas curtas."
+    },
+    "wiki-6024": {
+      "sourceRevisionId": 52095,
+      "translatedText": "Um polímero líquido, usado em desenvolvimentos laboratoriais Progress. Os cientistas criaram-no para interagir eficazmente com a nova vegetação mutada."
+    },
+    "wiki-13572": {
+      "sourceRevisionId": 53519,
+      "translatedText": "Uma moto possuída pelo espírito do cavalo amaldiçoado do Cavaleiro Sem Cabeça."
+    },
+    "wiki-530": {
+      "sourceRevisionId": 1704,
+      "translatedText": "Os cientistas do Progress estão prontos para trocar todos os seus desenvolvimentos por quaisquer dados sobre anomalias biológicas."
+    },
+    "wiki-15252": {
+      "sourceRevisionId": 54556,
+      "translatedText": "Pode ser encontrado usando a lanterna preto-e-vermelho ao procurar edifícios. Se você coletar tickets suficientes, você pode montar as coordenadas de um estoque de prêmios Black Deck."
+    },
+    "wiki-14957": {
+      "sourceRevisionId": 53627,
+      "translatedText": "Só funciona em uma frequência desconhecida. Ligar atrai loucos."
+    },
+    "wiki-8712": {
+      "sourceRevisionId": 27662,
+      "translatedText": "O demónio preso nesta máscara irá guiá-lo na batalha, mas alimenta-se da sua energia de vida."
+    },
+    "wiki-7118": {
+      "sourceRevisionId": 22329,
+      "translatedText": "Poder convocado das profundezas do inferno, permitindo que se voe acima deste deserto de pecado."
+    },
+    "wiki-10048": {
+      "sourceRevisionId": 50429,
+      "translatedText": "Combustível para motores de alta potência"
+    },
+    "wiki-9163": {
+      "sourceRevisionId": 29221,
+      "translatedText": "Pode ser usado para montar uma moto completa ou cortado para sucata"
+    },
+    "wiki-15694": {
+      "sourceRevisionId": 55984,
+      "translatedText": "Eficaz em combate contra grandes grupos de inimigos. Cada morte aumenta os danos causados."
+    },
+    "wiki-14545": {
+      "sourceRevisionId": 53773,
+      "translatedText": "Vai esmagar a multidão de tolos que respondeu sobre a sua armadura."
+    },
+    "wiki-15792": {
+      "sourceRevisionId": 56610,
+      "translatedText": "Armadura Expedicionária de primeira classe: alta resistência à radiação, escolha de arma adicional em combate, maior defesa e experiência em batalhas com biomutantes."
+    },
+    "wiki-6711": {
+      "sourceRevisionId": 53603,
+      "translatedText": "Uma parte crucial de qualquer festa de Páscoa."
+    },
+    "wiki-2889": {
+      "sourceRevisionId": 9253,
+      "translatedText": "Um ovo decorado com tinta."
+    },
+    "wiki-11557": {
+      "sourceRevisionId": 50439,
+      "translatedText": "A bateria neste carro elétrico vai durar 10-20 anos. Bem-vindo ao futuro!"
+    },
+    "wiki-13834": {
+      "sourceRevisionId": 44380,
+      "translatedText": "Ajudará com uma construção de mini usina hidrelétrica em Tyumen."
+    },
+    "wiki-9562": {
+      "sourceRevisionId": 30476,
+      "translatedText": "Eletrodos para soldadores."
+    },
+    "wiki-6483": {
+      "sourceRevisionId": 53463,
+      "translatedText": "Um choque de energia durante vários dias!"
+    },
+    "wiki-15796": {
+      "sourceRevisionId": 56609,
+      "translatedText": "Em um ataque, pode reduzir o alcance e o movimento do alvo. Recomendado contra atiradores; depois, saia da zona de efeito."
+    },
+    "wiki-15389": {
+      "sourceRevisionId": 54759,
+      "translatedText": "Quem disse que os fantasmas só ficam atrás dos vivos? Esta vara de outro mundo funcionará para sempre, e multiplica - se a velocidade da pesca!"
+    },
+    "wiki-15673": {
+      "sourceRevisionId": 55549,
+      "translatedText": "Reduz a fadiga, aumenta a atenção e a concentração. Dosen não trata acne."
+    },
+    "wiki-7024": {
+      "sourceRevisionId": 55242,
+      "translatedText": "Estes são os contentores que o Progress utiliza para transportar carga útil."
+    },
+    "wiki-12686": {
+      "sourceRevisionId": 40723,
+      "translatedText": "Desenvolvido pelo Departamento de Abastecimento da EMBA. Uma ração equilibrada com suplementos experimentais."
+    },
+    "wiki-15787": {
+      "sourceRevisionId": 56540,
+      "translatedText": "Longo sono concede descanso metabólico. Aumenta a saúde máxima, alimentação, água e energia."
+    },
+    "wiki-244": {
+      "sourceRevisionId": 893,
+      "translatedText": "Utilizado para a extração efetiva de biomassa de pedaços de micélio."
+    },
+    "wiki-15325": {
+      "sourceRevisionId": 54659,
+      "translatedText": "Percorre o abismo do inferno pós-apocalíptico! Seu bilhete de volta é uma habilidade poderosa: derrubar os inimigos e restaurar sua saúde em batalha."
+    },
+    "wiki-1993": {
+      "sourceRevisionId": 51000,
+      "translatedText": "Dá poder a armas encantadas e algumas regalias demoníacas. Pode ser obtido assustando residentes em assentamentos. Os minions também trazem o medo."
+    },
+    "wiki-9945": {
+      "sourceRevisionId": 55006,
+      "translatedText": "UAZ-469 carro off-road, comumente conhecido como Uazik. Precisa de gasolina."
+    },
+    "wiki-9096": {
+      "sourceRevisionId": 29088,
+      "translatedText": "Um uniforme militar complementado por um capacete de aço e colete à prova de balas, é igualmente adequado tanto para o campo de batalha como para o mundo pós-nuclear, onde o perigo espreita em cada esquina."
+    },
+    "wiki-9343": {
+      "sourceRevisionId": 29912,
+      "translatedText": "Combustível básico para a fogueira. Há fontes de fogo mais eficientes, mas a lenha é a mais familiar. Pode ser cortado de troncos."
+    },
+    "wiki-1780": {
+      "sourceRevisionId": 50448,
+      "translatedText": "O nível do Papai Noel aumenta as estatísticas de artefatos mágicos"
+    },
+    "wiki-13276": {
+      "sourceRevisionId": 53608,
+      "translatedText": "Usando um kit de primeiros socorros remove totalmente os efeitos negativos e cura todas as doenças e lesões."
+    },
+    "wiki-15722": {
+      "sourceRevisionId": 56410,
+      "translatedText": "Eficaz contra alvos blindados a longo alcance. Pode atordoar o alvo."
+    },
+    "wiki-8032": {
+      "sourceRevisionId": 53678,
+      "translatedText": "Um psicopata violento foi transformado em uma arma viva como castigo. Ao comando, ele cuspiu seus próprios dentes para seus oponentes; eles, no entanto, crescem de volta rapidamente."
+    },
+    "wiki-5316": {
+      "sourceRevisionId": 51418,
+      "translatedText": "A Nikita deu-me esta faca quando voltámos do matadouro de Kiev. Como seu pai Kiril disse: \"Quando sua espingarda falhar, quando sua granada não explodir, quando seu amigo correr - tudo o que restar é sua faca\"."
+    },
+    "wiki-14679": {
+      "sourceRevisionId": 56516,
+      "translatedText": "Apenas alguns tiros tiram a capacidade de andar e atacar. Transforme um oponente perigoso em um saco incoerente de biomassa!"
+    },
+    "wiki-14427": {
+      "sourceRevisionId": 53520,
+      "translatedText": "Dê o seu tiro e skate longe: matar um oponente concede um movimento livre."
+    },
+    "wiki-1087": {
+      "sourceRevisionId": 54102,
+      "translatedText": "Esta espada foi retirada de um bloco de gelo no Árctico. O frio mortal ainda emana da sua lâmina."
+    },
+    "wiki-11893": {
+      "sourceRevisionId": 38332,
+      "translatedText": "Posso transformá-la em lenha."
+    },
+    "wiki-14955": {
+      "sourceRevisionId": 53668,
+      "translatedText": "O famoso caminhão que a Gerda conduzia por toda a Europa. Agora é a tua vez de conquistar o mundo arruinado!"
+    },
+    "wiki-15798": {
+      "sourceRevisionId": 56571,
+      "translatedText": "Permite fazer Biotonic na cozinha."
+    },
+    "wiki-15677": {
+      "sourceRevisionId": 55594,
+      "translatedText": "Tempo para assumir o risco: a força letal compensa a baixa precisão."
+    },
+    "wiki-12872": {
+      "sourceRevisionId": 53118,
+      "translatedText": "Você deve mudar periodicamente o filtro da máscara de gás para que ela continue funcionando corretamente."
+    },
+    "wiki-7404": {
+      "sourceRevisionId": 55223,
+      "translatedText": "Combustível para carros e motocicletas"
+    },
+    "wiki-4743": {
+      "sourceRevisionId": 53638,
+      "translatedText": "Incinerem uma série de oponentes com fogo infernal! Depois outro... E outro!"
+    },
+    "wiki-11177": {
+      "sourceRevisionId": 35840,
+      "translatedText": "Apenas encontrado nas partes mais selvagens de cidades super crescidas. Herbicida vai ajudar a chegar até eles através da parede de raízes e caules."
+    },
+    "wiki-6964": {
+      "sourceRevisionId": 56914,
+      "translatedText": "Serve como fonte de alimentação portátil"
+    },
+    "wiki-3613": {
+      "sourceRevisionId": 54274,
+      "translatedText": "Depois de pousarem em batalha, crescem em enormes indivíduos que devoram inimigos. Eles são cultivados em Gerin Flycatcher."
+    },
+    "wiki-8736": {
+      "sourceRevisionId": 27740,
+      "translatedText": "Parece que quando estou a usar este fato estúpido, monstros pensam que sou um deles."
+    },
+    "wiki-15984": {
+      "sourceRevisionId": 56974,
+      "translatedText": "Preciso de localizar e matar mutantes perigosos. O Forester me disse para trazer troféus como prova das minhas habilidades de caça."
+    },
+    "wiki-10990": {
+      "sourceRevisionId": 50479,
+      "translatedText": "Esta arma nasceu na oficina de um cientista louco verdadeiramente brilhante. Ou incrivelmente brilhante. Que diferença isso faz quando você pode finalmente atirar raios?!"
+    },
+    "wiki-4096": {
+      "sourceRevisionId": 55035,
+      "translatedText": "Come-o e desperta os poderes do Pai Natal dentro de ti."
+    },
+    "wiki-12627": {
+      "sourceRevisionId": 40499,
+      "translatedText": "Você nunca terá que negar nada em festas de férias novamente: tudo o que não cabe em seu estômago vai esperar por você neste saco."
+    },
+    "wiki-15370": {
+      "sourceRevisionId": 54732,
+      "translatedText": "Usado para abrir baús com itens únicos. Pode ser obtido entregando evidências de cidades arruinadas na janela do evento, e também na loja evento."
+    },
+    "wiki-14905": {
+      "sourceRevisionId": 54557,
+      "translatedText": "Usado na loja de eventos. Pode ser obtido trocando colares de loucos na janela do evento. Você pode encontrar os colares em postos de bombeiros e gráficas nas cidades, bem como em locais de armadilha de rádio no mapa."
+    },
+    "wiki-3256": {
+      "sourceRevisionId": 10458,
+      "translatedText": "Elder Jiang Yue coleta objetos de valor chineses apropriados por bandidos da tríade. Ele vai trocar este item por moedas. Tais itens podem ser encontrados em cidades arruinadas."
+    },
+    "wiki-12122": {
+      "sourceRevisionId": 38926,
+      "translatedText": "Um ovo decorado com tinta dourada."
+    },
+    "wiki-909": {
+      "sourceRevisionId": 53871,
+      "translatedText": "Contém uma variedade de itens úteis e tesouros do Reino Médio."
+    },
+    "wiki-1641": {
+      "sourceRevisionId": 5028,
+      "translatedText": "Proteção contra radiações nas cidades."
+    },
+    "wiki-8503": {
+      "sourceRevisionId": 55095,
+      "translatedText": "Munição RPG-7."
+    },
+    "wiki-9406": {
+      "sourceRevisionId": 30090,
+      "translatedText": "Um poderoso fertilizante universal que acelera o crescimento da cultura. Feito na oficina Krasnoyarsk."
+    },
+    "wiki-11856": {
+      "sourceRevisionId": 50484,
+      "translatedText": "\"Lâmina da Lua Reclinante\" esmagará qualquer um que se atreva a entrar no alcance do seu eixo."
+    },
+    "wiki-15352": {
+      "sourceRevisionId": 54758,
+      "translatedText": "Investigar assassinatos em série esquecidos - coletar evidências nas cidades e receber moedas de ouro como recompensa! Preste atenção especial às casas assombradas e crateras em chamas."
+    },
+    "wiki-13853": {
+      "sourceRevisionId": 55292,
+      "translatedText": "Ajuda a moer grãos em farinha."
+    },
+    "wiki-6378": {
+      "sourceRevisionId": 20106,
+      "translatedText": "Uma nova vitória para as tecnologias Progress. A força de Ampere é colocada nos trilhos do poder dos cientistas e seus aliados."
+    },
+    "wiki-10907": {
+      "sourceRevisionId": 35051,
+      "translatedText": "Foguete para lançador de foguetes artesanal"
+    },
+    "wiki-4721": {
+      "sourceRevisionId": 55096,
+      "translatedText": "Transforma inimigos em carne picada."
+    },
+    "wiki-12377": {
+      "sourceRevisionId": 57006,
+      "translatedText": "Não precisa de estradas."
+    },
+    "wiki-523": {
+      "sourceRevisionId": 1697,
+      "translatedText": "Destrui plantas mutantes nas áreas de acesso mais difícil das cidades tomadas pela vegetação."
+    },
+    "wiki-6871": {
+      "sourceRevisionId": 21509,
+      "translatedText": "Estes conjuntos foram utilizados para fornecer ao pessoal do projecto EMBA."
+    },
+    "wiki-14540": {
+      "sourceRevisionId": 53564,
+      "translatedText": "Devolve o fogo uma vez por turno. Ainda mais forte quando combinado com a pistola Tigre Agachado."
+    },
+    "wiki-6221": {
+      "sourceRevisionId": 54105,
+      "translatedText": "Fabricado na oficina Novosibirsk."
+    },
+    "wiki-1586": {
+      "sourceRevisionId": 4874,
+      "translatedText": "Montado a partir de sucatas, este conjunto foi projetado principalmente para sobreviver no terreno desolado. Ele é capaz de proteger seu usuário de tiros de bandidos e os dentes de mutantes"
+    },
+    "wiki-15269": {
+      "sourceRevisionId": 54586,
+      "translatedText": "Um longo sono concede o efeito Descanso do Dealer, que aplica proteção contra Explosões e aumenta o dano da espingarda e precisão."
+    },
+    "wiki-2596": {
+      "sourceRevisionId": 55010,
+      "translatedText": "Um caminhão anfíbio que aguenta tudo."
+    },
+    "wiki-14999": {
+      "sourceRevisionId": 54559,
+      "translatedText": "A espingarda de um assassino a sangue frio: um alvo ferido não sobrevive a um segundo tiro."
+    },
+    "wiki-5196": {
+      "sourceRevisionId": 54106,
+      "translatedText": "Catapulta nuclear táctica portátil. Veio de um mundo onde o Natal não é celebrado há muito tempo."
+    },
+    "wiki-4684": {
+      "sourceRevisionId": 14842,
+      "translatedText": "Um poderoso impulso de energia .+600. Edição limitada."
+    },
+    "wiki-3929": {
+      "sourceRevisionId": 56431,
+      "translatedText": "Pode ser montado por qualquer um do lixo na mão."
+    },
+    "wiki-2048": {
+      "sourceRevisionId": 50504,
+      "translatedText": "Roupa especial usada por caçadores de monstros."
+    },
+    "wiki-12388": {
+      "sourceRevisionId": 53692,
+      "translatedText": "Atira balas de prata, por isso qualquer caçador do mal deve ter uma."
+    },
+    "wiki-15922": {
+      "sourceRevisionId": 56826,
+      "translatedText": "A derrota automática do segundo oponente (com dano reduzido) em um tiro. Também causa danos adicionais aos animais."
+    },
+    "wiki-7923": {
+      "sourceRevisionId": 53421,
+      "translatedText": "Todos adoram este prazer, até um adversário no campo de batalha."
+    },
+    "wiki-15522": {
+      "sourceRevisionId": 55061,
+      "translatedText": "Dá imunidade a queimaduras e efeitos hemorrágicos. Um inimigo que atacou em combate próximo tem grandes hipóteses de ficar atordoado."
+    },
+    "wiki-13258": {
+      "sourceRevisionId": 54108,
+      "translatedText": "O nível do Papai Noel aumenta as estatísticas de artefatos mágicos"
+    },
+    "wiki-14323": {
+      "sourceRevisionId": 53479,
+      "translatedText": "Um substituto para o carvão negro, que é usado para fazê-lo no Kiln, o forno para o evento temático."
+    },
+    "wiki-15468": {
+      "sourceRevisionId": 54882,
+      "translatedText": "\"Eu amo o cheiro de enxofre de manhã!\" Aumenta os danos ao fogo no alvo e reduz a precisão do alvo. Quando o alvo é morto, concede Fervor de Batalha."
+    },
+    "wiki-4402": {
+      "sourceRevisionId": 13936,
+      "translatedText": "Um estimulante com um efeito duradouro. Proporciona uma energia significativa e um impulso fantástico ao metabolismo."
+    },
+    "wiki-10687": {
+      "sourceRevisionId": 54215,
+      "translatedText": "Um rolo de fita eléctrica azul."
+    },
+    "wiki-6983": {
+      "sourceRevisionId": 21929,
+      "translatedText": "Sua magia vai esconder o usuário dos olhos curiosos na batalha, mas seja avisado-o tecido é extremamente inconstante."
+    },
+    "wiki-11869": {
+      "sourceRevisionId": 53537,
+      "translatedText": "Uma máscara de gás com defesas eletroquímicas e lentes ópticas avançadas. É alimentado por baterias descartáveis"
+    },
+    "wiki-768": {
+      "sourceRevisionId": 54282,
+      "translatedText": "Anti-radiação"
+    },
+    "wiki-1098": {
+      "sourceRevisionId": 3518,
+      "translatedText": "Uma velha solução para um problema moderno. Esta armadura de metal forjada protege todo o corpo e pode ajudá-lo a resistir a bandidos bem armados e animais grandes"
+    },
+    "wiki-3273": {
+      "sourceRevisionId": 53666,
+      "translatedText": "Limpa espaço para uma festa quente... mas os inimigos não devem estar de bom humor."
+    },
+    "wiki-15001": {
+      "sourceRevisionId": 54560,
+      "translatedText": "Excelente para combate de rua: agarra-o, explode o chefão, mata os seus parceiros. Calma. Menos eficaz contra armaduras."
+    },
+    "wiki-16030": {
+      "sourceRevisionId": 57086,
+      "translatedText": "Dispara, perfura todos os alvos na linha de visão do atirador."
+    },
+    "wiki-15246": {
+      "sourceRevisionId": 54561,
+      "translatedText": "Um sinal de gratidão do Jackpot pela sua ajuda. Onde arranjou os fundos para não perguntar."
+    },
+    "wiki-15235": {
+      "sourceRevisionId": 54562,
+      "translatedText": "Um obrigado do Jackpot: dispare um sinalizador, e ela vai enviar o seu mecânico para ajudar. No campo de batalha, ele aparece com uma torre artesanal."
+    },
+    "wiki-1938": {
+      "sourceRevisionId": 5920,
+      "translatedText": "Elder Jiang Yue coleta objetos de valor chineses apropriados por bandidos da tríade. Ele vai trocar este item por moedas. Tais itens podem ser encontrados em cidades arruinadas."
+    },
+    "wiki-15213": {
+      "sourceRevisionId": 54783,
+      "translatedText": "Desapareceu! Emite um gás estranho: quem o inala torna-se mais vulnerável mas mais eficaz na batalha."
+    },
+    "wiki-7151": {
+      "sourceRevisionId": 52592,
+      "translatedText": "Pode ter armas de Natal e algumas das habilidades do Pai Natal. Você pode obtê-lo dando presentes aos residentes em assentamentos. Os ajudantes também trazem alegria."
+    },
+    "wiki-14561": {
+      "sourceRevisionId": 53641,
+      "translatedText": "Treine com este equipamento atlético, e você vai ficar tão forte quanto o famoso fisiculturista soviético Vadim Blinov!"
+    },
+    "wiki-15236": {
+      "sourceRevisionId": 54782,
+      "translatedText": "Elegante proteção contra projéteis frag e explosões."
+    },
+    "wiki-15507": {
+      "sourceRevisionId": 55026,
+      "translatedText": "Um prato de Ano Novo tradicional mas bastante exótico."
+    },
+    "wiki-15201": {
+      "sourceRevisionId": 54565,
+      "translatedText": "O povo exigiu rum, e Jackpot fez o seu melhor. Infelizmente, a qualidade não é muito consistente."
+    },
+    "wiki-15243": {
+      "sourceRevisionId": 54566,
+      "translatedText": "Você pode criar uma versão improvisada de quase tudo, especialmente se estiver disposto a correr riscos."
+    },
+    "wiki-12206": {
+      "sourceRevisionId": 54292,
+      "translatedText": "Uma bebida de pão natural, limpa a mente e deixa uma sensação de frescura de verão."
+    },
+    "wiki-11603": {
+      "sourceRevisionId": 55012,
+      "translatedText": "Um caminhão muito poderoso que levará absolutamente tudo."
+    },
+    "wiki-4103": {
+      "sourceRevisionId": 53950,
+      "translatedText": "O elfo de entrega vai entregar algo interessante em todos os locais. Trabalha para comida."
+    },
+    "wiki-4896": {
+      "sourceRevisionId": 15615,
+      "translatedText": "Este conjunto é o mais bem. adequado para sobreviver no deserto. Sua armadura de metal soldado irá protegê-lo em batalha, enquanto o chapéu e capa irá protegê-lo de mau tempo e poeira radioativa"
+    },
+    "wiki-2949": {
+      "sourceRevisionId": 50537,
+      "translatedText": "Droga psicotrópica que reduz a fadiga."
+    },
+    "wiki-15230": {
+      "sourceRevisionId": 54567,
+      "translatedText": "Precisão de nível de franco-atirador, proteção contra queima de substâncias, e armadura séria: a receita para uma fortaleza em movimento que nada pode esconder."
+    },
+    "wiki-12715": {
+      "sourceRevisionId": 51372,
+      "translatedText": "Uma explosão poderosa derrubará não só o alvo, mas também o inimigo mais próximo."
+    },
+    "wiki-5012": {
+      "sourceRevisionId": 53952,
+      "translatedText": "Os toros são usados para fazer firewod, paus e tábuas. Eles podem ser cortados na floresta."
+    },
+    "wiki-3477": {
+      "sourceRevisionId": 11209,
+      "translatedText": "Suas bombas envolvem inimigos em fumaça mortal."
+    },
+    "wiki-7361": {
+      "sourceRevisionId": 50541,
+      "translatedText": "Usado para montar e reparar máquinas."
+    },
+    "wiki-11524": {
+      "sourceRevisionId": 55249,
+      "translatedText": "Pode levar seu proprietário para qualquer lugar, e dar a qualquer quarto um toque de estilo! Apenas lavagem manual."
+    },
+    "wiki-2875": {
+      "sourceRevisionId": 9217,
+      "translatedText": "Mais durável do que parece. E ainda melhor em proteger contra canalhas."
+    },
+    "wiki-15935": {
+      "sourceRevisionId": 56976,
+      "translatedText": "Preciso de localizar e matar mutantes perigosos. O Forester me disse para trazer troféus como prova das minhas habilidades de caça."
+    },
+    "wiki-15245": {
+      "sourceRevisionId": 54568,
+      "translatedText": "Entregue cartões marcados para Jackpot e obter fichas pretas! Cartões marcados podem ser encontrados em cidades arruinadas - em casas de jogos e pistas de dança controlados pelo Black Deck."
+    },
+    "wiki-5367": {
+      "sourceRevisionId": 54154,
+      "translatedText": "O sistema de extração de recursos automáticos móveis. Foi projetado para trabalhar em outros planetas e asteroides, e agora foi adaptado para tarefas mais simples. Requer recarga após cada ciclo de busca de recursos."
+    },
+    "wiki-13406": {
+      "sourceRevisionId": 53573,
+      "translatedText": "O poder da arte asiática da guerra esmagará os adversários."
+    },
+    "wiki-13976": {
+      "sourceRevisionId": 53689,
+      "translatedText": "O que poderia tornar o fogo de artifício ainda melhor? Disparar de uma metralhadora!"
+    },
+    "wiki-863": {
+      "sourceRevisionId": 2574,
+      "translatedText": "Contém uma seção com tudo necessário para a sobrevivência, como um impulso de saúde imediato e a capacidade de criar estimulantes."
+    },
+    "wiki-4670": {
+      "sourceRevisionId": 14780,
+      "translatedText": "Sob o brilho alegre desta lanterna, você será abençoado com surpresas de Natal."
+    },
+    "wiki-15010": {
+      "sourceRevisionId": 54569,
+      "translatedText": "Detecta itens de metal e peças subterrâneas, mas é um processo lento."
+    },
+    "wiki-10456": {
+      "sourceRevisionId": 54016,
+      "translatedText": "Peças de reposição para o helicóptero Mi-8."
+    },
+    "wiki-5186": {
+      "sourceRevisionId": 16385,
+      "translatedText": "Até o último lince estará a olhar para o cano de uma morte luxuosa!"
+    },
+    "wiki-12421": {
+      "sourceRevisionId": 39972,
+      "translatedText": "Durable e baixa manutenção, este uniforme foi usado por todos os soldados soviéticos não há muito tempo. É agora valorizado pelos moradores do deserto pelo seu olhar defensivo e dominante."
+    },
+    "wiki-4565": {
+      "sourceRevisionId": 53494,
+      "translatedText": "Permite entrar na mina de minério de titânio."
+    },
+    "wiki-11209": {
+      "sourceRevisionId": 51176,
+      "translatedText": "Este desenho foi concluído após a Catástrofe. Não há muitos que possam pagar um."
+    },
+    "wiki-1890": {
+      "sourceRevisionId": 54983,
+      "translatedText": "A variante 1891 do rifle trilinear Mosin-Nagant é legitimamente considerada uma das armas de pequeno calibre mais famosas a sair da Rússia. Requer cartuchos 7.62x54."
+    },
+    "wiki-3280": {
+      "sourceRevisionId": 50563,
+      "translatedText": "Encontrado em pântanos e florestas."
+    },
+    "wiki-2339": {
+      "sourceRevisionId": 56615,
+      "translatedText": "Precisa de gasolina para combustível"
+    },
+    "wiki-12185": {
+      "sourceRevisionId": 50564,
+      "translatedText": "Use-o para reparar a motocicleta Urais"
+    },
+    "wiki-13320": {
+      "sourceRevisionId": 55027,
+      "translatedText": "Aquece-te nas noites frias de inverno."
+    },
+    "wiki-14548": {
+      "sourceRevisionId": 53568,
+      "translatedText": "Suprime as posições do oponente a cada tiro. Matar um inimigo elimina todas as restrições tácticas."
+    },
+    "wiki-15976": {
+      "sourceRevisionId": 56952,
+      "translatedText": "O Forester me pediu para capturar vários peixes mutantes. Ele acredita que a carne e a ova são extremamente venenosas. A sua população deve ser eliminada antes que a contaminação se espalhe."
+    },
+    "wiki-15947": {
+      "sourceRevisionId": 56891,
+      "translatedText": "O Forester me pediu para capturar vários lúcios mutantes. Ele notou que eles estão desovando ovas contaminadas, o que pode ser perigoso."
+    },
+    "wiki-15963": {
+      "sourceRevisionId": 56892,
+      "translatedText": "O Forester me pediu para capturar vários peixes mutantes. Ele acredita que a carne e a ova são extremamente venenosas. A sua população deve ser eliminada antes que a contaminação se espalhe."
+    },
+    "wiki-10282": {
+      "sourceRevisionId": 50572,
+      "translatedText": "Usado como uma granada em batalha, mas em vez de causar danos, fortalece todos por perto. Pode ser cultivada em estufa."
+    },
+    "wiki-6686": {
+      "sourceRevisionId": 50574,
+      "translatedText": "unha de aço de 200 mm"
+    },
+    "wiki-2182": {
+      "sourceRevisionId": 55304,
+      "translatedText": "Quem sabe o que está lá dentro"
+    },
+    "wiki-3630": {
+      "sourceRevisionId": 50575,
+      "translatedText": "Uma pequena ravina cheia de urtigas."
+    },
+    "wiki-6343": {
+      "sourceRevisionId": 56919,
+      "translatedText": "Bateria nuclear com uma vida útil de 20 anos. O principal ingrediente ativo é o trítio. A radiação causada pela dissolução do trítio é considerada segura. Pode ser usado para construir um carro elétrico"
+    },
+    "wiki-15208": {
+      "sourceRevisionId": 54570,
+      "translatedText": "O conteúdo, seja o que for, ainda é comestível. Construíram coisas para durar no passado!"
+    },
+    "wiki-15273": {
+      "sourceRevisionId": 54495,
+      "translatedText": "A derradeira resistência à radiação. O único senão? O tanque drena-se depois de um tempo."
+    },
+    "wiki-15388": {
+      "sourceRevisionId": 54757,
+      "translatedText": "Gratidão por resolver os assuntos entre este mundo e o outro lado."
+    },
+    "wiki-3344": {
+      "sourceRevisionId": 50588,
+      "translatedText": "Reduz os efeitos negativos causados por lesões."
+    },
+    "wiki-4728": {
+      "sourceRevisionId": 14994,
+      "translatedText": "Elder Jiang Yue coleta objetos de valor chineses apropriados por bandidos da tríade. Ele vai trocar este item por moedas. Tais itens podem ser encontrados em cidades arruinadas."
+    },
+    "wiki-611": {
+      "sourceRevisionId": 52870,
+      "translatedText": "Edifícios destruídos parecem assustadores em seu brilho vermelho, mas ruínas revelam seus segredos mais prontamente."
+    },
+    "wiki-2989": {
+      "sourceRevisionId": 50591,
+      "translatedText": "O nível do Papai Noel aumenta as estatísticas de artefatos mágicos"
+    },
+    "wiki-15799": {
+      "sourceRevisionId": 56585,
+      "translatedText": "Bloqueia completamente o movimento para alvos afetados. Recomendado para uso contra inimigos atacando de perto."
+    },
+    "wiki-3951": {
+      "sourceRevisionId": 12509,
+      "translatedText": "Um prato nutritivo e extremamente delicioso de cozinha chinesa."
+    },
+    "wiki-8630": {
+      "sourceRevisionId": 53801,
+      "translatedText": "Um tiro, três corpos."
+    },
+    "wiki-3074": {
+      "sourceRevisionId": 9807,
+      "translatedText": "Alimentação nutritiva, adequada para qualquer animal de estimação."
+    },
+    "wiki-4859": {
+      "sourceRevisionId": 53513,
+      "translatedText": "É difícil atirar em barras vermelhas mesmo com uma visão óptica. No entanto, os cientistas tratam esta arma com muito calor."
+    },
+    "wiki-11903": {
+      "sourceRevisionId": 38359,
+      "translatedText": "Crescimentos fúngicos que podem ser encontrados nos corpos dos biomutantes. A fonte da biomassa. A maneira mais eficaz de extraí-lo do micélio é usando um extrator."
+    },
+    "wiki-2395": {
+      "sourceRevisionId": 53522,
+      "translatedText": "A pílula milagrosa dos sábios daoístas irá ajudá-lo a sobreviver nas situações mais difíceis."
+    },
+    "wiki-4544": {
+      "sourceRevisionId": 53710,
+      "translatedText": "7,62x25mm cartuchos TT. Você pode usá-los com a pistola TT, PPS e PPSh"
+    },
+    "wiki-7591": {
+      "sourceRevisionId": 56614,
+      "translatedText": "Esta poderosa minigun foi criada sob a supervisão do Coronel Kurganov como parte do projeto EMBA."
+    },
+    "wiki-372": {
+      "sourceRevisionId": 1424,
+      "translatedText": "Necessário para a criação de muitos itens. Fabricado a partir de toros."
+    },
+    "wiki-15181": {
+      "sourceRevisionId": 53680,
+      "translatedText": "Risco é o teu nome do meio! Quanto menos armadura e saúde tiver, maior será a sua chance de escapar. Também adiciona a chance de lidar com um tiro de retorno adicional."
+    },
+    "wiki-10593": {
+      "sourceRevisionId": 33873,
+      "translatedText": "A própria cerveja que faz zumbis tão brilhante e alegre. O resto de nós, no entanto, tem de sofrer efeitos colaterais para desfrutar de tal onda de energia."
+    },
+    "wiki-1362": {
+      "sourceRevisionId": 54111,
+      "translatedText": "O nível do Papai Noel aumenta as estatísticas de artefatos mágicos"
+    },
+    "wiki-7219": {
+      "sourceRevisionId": 22581,
+      "translatedText": "Elder Jiang Yue coleta objetos de valor chineses apropriados por bandidos da tríade. Ele vai trocar este item por moedas. Tais itens podem ser encontrados em cidades arruinadas."
+    },
+    "wiki-1382": {
+      "sourceRevisionId": 56432,
+      "translatedText": "Melhor do que nada. A produção desses coletes foi estabelecida nos assentamentos."
+    },
+    "wiki-9926": {
+      "sourceRevisionId": 31556,
+      "translatedText": "Acampar fogão a óleo. Pode substituir o fogo, se tiveres gasolina."
+    },
+    "wiki-4700": {
+      "sourceRevisionId": 56459,
+      "translatedText": "O cartão de visita da organização de pesquisa. As partes mais distantes do continente são acessíveis a um pesquisador em um ATV como este."
+    },
+    "wiki-2681": {
+      "sourceRevisionId": 8289,
+      "translatedText": "Parte do equipamento obrigatório para os membros do pessoal do Progress. Emitido para trabalhar em zonas de ameaça biológica."
+    },
+    "wiki-1229": {
+      "sourceRevisionId": 53450,
+      "translatedText": "Torna a pele de bruxas e demónios suficientemente espessos para resistir aos fogos da Inquisição e aos garfos dos camponeses!"
+    },
+    "wiki-4389": {
+      "sourceRevisionId": 54324,
+      "translatedText": "Ótimo para a sopa."
+    },
+    "wiki-8908": {
+      "sourceRevisionId": 54034,
+      "translatedText": "Disposto a cobri-lo em batalha ou realizar uma pequena tarefa. Não o convide para almoçar, ele vai ter a ideia errada."
+    },
+    "wiki-7004": {
+      "sourceRevisionId": 54112,
+      "translatedText": "Até os teus inimigos merecem presentes. O tipo que vai derrubá-los de volta com um golpe forte!"
+    },
+    "wiki-15469": {
+      "sourceRevisionId": 54883,
+      "translatedText": "Um longo sono concede o descanso do Carny. Aumenta a velocidade de busca nas cidades, bem como a resistência à radiação e veneno."
+    },
+    "wiki-15786": {
+      "sourceRevisionId": 56538,
+      "translatedText": "Provoca danos significativos ao fogo por várias voltas após a explosão."
+    },
+    "wiki-11464": {
+      "sourceRevisionId": 36867,
+      "translatedText": "Um conjunto de instruções para criar fogos de artifício, poppers de festa, e faíscas."
+    },
+    "wiki-15210": {
+      "sourceRevisionId": 54571,
+      "translatedText": "Uma lembrança do casino, onde todos adoram coisas brilhantes e brilhantes. Normalmente distribuído como um conjunto de quatro, mas toda a coleção não foi encontrada enquanto pesquisava ruínas."
+    },
+    "wiki-2373": {
+      "sourceRevisionId": 51034,
+      "translatedText": "Requerido para a criação de couro de qualidade."
+    },
+    "wiki-4938": {
+      "sourceRevisionId": 51037,
+      "translatedText": "Componente para fabricação e reparo de itens. Feito de peles de qualidade."
+    },
+    "wiki-15973": {
+      "sourceRevisionId": 56977,
+      "translatedText": "Preciso de localizar e matar mutantes perigosos. O Forester me disse para trazer troféus como prova das minhas habilidades de caça."
+    },
+    "wiki-8994": {
+      "sourceRevisionId": 28805,
+      "translatedText": "Dificultar qualquer corrida contra o Apocalipse"
+    },
+    "wiki-3235": {
+      "sourceRevisionId": 10399,
+      "translatedText": "Um pequeno cogumelo que emite uma luz verde suave"
+    },
+    "wiki-128": {
+      "sourceRevisionId": 285,
+      "translatedText": "Um ovo decorado com tinta rosa, azul e verde."
+    },
+    "wiki-14971": {
+      "sourceRevisionId": 54572,
+      "translatedText": "A arma escolhida para os Vingadores Selvagens inflige mais sangramento a cada tiro."
+    },
+    "wiki-15120": {
+      "sourceRevisionId": 54573,
+      "translatedText": "Chip do casino Jackpot. Necessário para completar missões de eventos. Depois de terminar o enredo, ele pode ser gasto em giros da roleta Jackpot na janela do evento."
+    },
+    "wiki-15272": {
+      "sourceRevisionId": 54574,
+      "translatedText": "Um U-2 desportivo, milagrosamente preservado em perfeitas condições."
+    },
+    "wiki-1301": {
+      "sourceRevisionId": 53698,
+      "translatedText": "Carne e outros alimentos duram 10 vezes mais!"
+    },
+    "wiki-16077": {
+      "sourceRevisionId": 57168,
+      "translatedText": "Pode ser obtido completando andares do Bunker. É preciso nivelar réplicas. Fora do evento Bunker, o Substrato de Réplica também pode ser usado em combate como uma granada. Replica Substrate cai a cada 5 andares do Bunker."
+    },
+    "wiki-15676": {
+      "sourceRevisionId": 55551,
+      "translatedText": "Um bom jogador tem sempre um ás na manga. Dispara um tiro de volta."
+    },
+    "wiki-4306": {
+      "sourceRevisionId": 50629,
+      "translatedText": "7,62 x 38 milímetros cartuchos, você pode usá-los com revólver Nagant."
+    },
+    "wiki-15168": {
+      "sourceRevisionId": 53113,
+      "translatedText": "Confiabilidade escandinava + eficiência europeia = recuperação rápida de lenha!"
+    },
+    "wiki-12480": {
+      "sourceRevisionId": 40232,
+      "translatedText": "Criar campos de paddy ao longo das margens de corpos de água."
+    },
+    "wiki-7726": {
+      "sourceRevisionId": 54366,
+      "translatedText": "Método popular chinês de combate à radiação."
+    },
+    "wiki-7556": {
+      "sourceRevisionId": 53905,
+      "translatedText": "cartuchos de 7,62 x 54 mm. Pode usá-los com uma espingarda Mosin-Nagant e uma espingarda Dragunov."
+    },
+    "wiki-3774": {
+      "sourceRevisionId": 55002,
+      "translatedText": "Um lançador de granadas. Usado para destruir alvos blindados."
+    },
+    "wiki-2570": {
+      "sourceRevisionId": 7954,
+      "translatedText": "Vamos escalar a montanha."
+    },
+    "wiki-15913": {
+      "sourceRevisionId": 56771,
+      "translatedText": "Uma explosão cega com um enorme raio de explosão: inimigos podem sofrer queima ou cegueira do fogo."
+    },
+    "wiki-14659": {
+      "sourceRevisionId": 56514,
+      "translatedText": "Todos estarão calmos no centro da explosão, no olho de uma tempestade furiosa de morte, ao passo que todos ao redor sofrerão vinte vezes mais danos!"
+    },
+    "wiki-14419": {
+      "sourceRevisionId": 53554,
+      "translatedText": "As propriedades curativas dos chifres de renas salvarão sua vida mais de uma vez em batalhas difíceis."
+    },
+    "wiki-13938": {
+      "sourceRevisionId": 44622,
+      "translatedText": "Uma serra velha. Ainda tem a maior parte dos dentes"
+    },
+    "wiki-15198": {
+      "sourceRevisionId": 54575,
+      "translatedText": "Tive sorte e roubei um cofre com algo valioso lá dentro! Mas quebrar não será fácil."
+    },
+    "wiki-11832": {
+      "sourceRevisionId": 55117,
+      "translatedText": "Tem uma longa vida útil"
+    },
+    "wiki-15404": {
+      "sourceRevisionId": 54781,
+      "translatedText": "Um coquetel requintado restaura a vitalidade na batalha. Mas é melhor não perguntar sobre alguns dos seus ingredientes..."
+    },
+    "wiki-5831": {
+      "sourceRevisionId": 18410,
+      "translatedText": "Este frasco nunca fica sem água, graças à magia da neve. No entanto, a precipitação é radioativa hoje em dia, portanto beba com cautela."
+    },
+    "wiki-6423": {
+      "sourceRevisionId": 50650,
+      "translatedText": "Este saco pode servir presentes para crianças em todo o mundo. Além disso, manterá um presunto de Natal fresco até ao próximo ano."
+    },
+    "wiki-5943": {
+      "sourceRevisionId": 54113,
+      "translatedText": "É difícil irritar o Pai Natal. Mas aqueles que conseguem lembrar-se deste pessoal para o resto da vida."
+    },
+    "wiki-6712": {
+      "sourceRevisionId": 51409,
+      "translatedText": "Às vezes você precisa de tempo especial para cumprir todos os desejos que as pessoas fizeram. Boas notícias: a natureza está disposta a obrigar!"
+    },
+    "wiki-15489": {
+      "sourceRevisionId": 54933,
+      "translatedText": "Permite criar salsicha de carne podre e legumes podres na cozinha."
+    },
+    "wiki-12947": {
+      "sourceRevisionId": 41551,
+      "translatedText": "Paciência e perseverança oriental serão recompensados - basta viajar bastante distância no mapa."
+    },
+    "wiki-4106": {
+      "sourceRevisionId": 12959,
+      "translatedText": "Permite que você carregue mais itens enquanto estiver usando-o."
+    },
+    "wiki-1289": {
+      "sourceRevisionId": 4041,
+      "translatedText": "Requer estudo minucioso no campo, mas muita leitura pode produzir muita experiência valiosa."
+    },
+    "wiki-3423": {
+      "sourceRevisionId": 10997,
+      "translatedText": "Encontrado em ruínas e crateras."
+    },
+    "wiki-6046": {
+      "sourceRevisionId": 54021,
+      "translatedText": "Obtidos por desmontagem de armas quebradas ou partes do veículo."
+    },
+    "wiki-2090": {
+      "sourceRevisionId": 53496,
+      "translatedText": "Você vai encontrar absolutamente tudo com ele!"
+    },
+    "wiki-2592": {
+      "sourceRevisionId": 54348,
+      "translatedText": "Uma refeição refrescante e saudável que satisfaz completamente sua fome e sede."
+    },
+    "wiki-13863": {
+      "sourceRevisionId": 53784,
+      "translatedText": "12/70 cartuchos, usados em espingardas padrão e a variedade serrada."
+    },
+    "wiki-15371": {
+      "sourceRevisionId": 54733,
+      "translatedText": "Usado para avançar na história do evento e para aumentar a força demoníaca. Pode ser obtido na loja de eventos ou concluindo missões no mapa."
+    },
+    "wiki-14906": {
+      "sourceRevisionId": 54576,
+      "translatedText": "Usado para missões de eventos e para comprar itens do Comerciante do Sindicato. Pode ser obtido completando missões no mapa."
+    },
+    "wiki-5124": {
+      "sourceRevisionId": 53890,
+      "translatedText": "Longo alcance e penetração de armadura."
+    },
+    "wiki-15000": {
+      "sourceRevisionId": 54577,
+      "translatedText": "Explode todos os inimigos, não importa os obstáculos, com velocidade impressionante."
+    },
+    "wiki-14986": {
+      "sourceRevisionId": 53567,
+      "translatedText": "Para manter a mente atenta e a força!"
+    },
+    "wiki-14997": {
+      "sourceRevisionId": 53593,
+      "translatedText": "Cuidado com o contrabandista encurralado: quanto mais inimigos ao redor, mais desesperadamente eles revidam."
+    },
+    "wiki-15167": {
+      "sourceRevisionId": 54394,
+      "translatedText": "Este frasco aguenta muito. Não, a sério. Muito."
+    },
+    "wiki-14985": {
+      "sourceRevisionId": 53505,
+      "translatedText": "Tem uma boa hipótese de encontrar as cifras dos contrabandistas. Recolha cifras suficientes para determinar as coordenadas dos esconderijos escondidos."
+    },
+    "wiki-2293": {
+      "sourceRevisionId": 55236,
+      "translatedText": "Um sabonete de lavandaria"
+    },
+    "wiki-4931": {
+      "sourceRevisionId": 15747,
+      "translatedText": "Preciso montar motores a gasolina."
+    },
+    "wiki-14978": {
+      "sourceRevisionId": 53574,
+      "translatedText": "Este não é um biquíni - é um colete táctico de design único que aumenta a sua eficácia de combate."
+    },
+    "wiki-8626": {
+      "sourceRevisionId": 54941,
+      "translatedText": "Vários itens mágicos ou valiosos dentro!"
+    },
+    "wiki-14041": {
+      "sourceRevisionId": 53402,
+      "translatedText": "Um poderoso impulso de energia .+666. Edição limitada."
+    },
+    "wiki-4323": {
+      "sourceRevisionId": 13790,
+      "translatedText": "Produz esporos que são perigosos para os seres humanos sem proteção especial. Por outro lado, eles atraem os biomutantes."
+    },
+    "wiki-256": {
+      "sourceRevisionId": 50681,
+      "translatedText": "Obtidos por desmontar armas partidas."
+    },
+    "wiki-15779": {
+      "sourceRevisionId": 56611,
+      "translatedText": "Pode forçar o alvo a lutar do seu lado. Recomendado para desativar os inimigos mais perigosos."
+    },
+    "wiki-8039": {
+      "sourceRevisionId": 53596,
+      "translatedText": "Uma estaca no coração? Não, um tronco inteiro no peito! Recomendado por caçadores de vampiros."
+    },
+    "wiki-13073": {
+      "sourceRevisionId": 41842,
+      "translatedText": "Uma vez, tais Prianiks foram chamados de forma diferente."
+    },
+    "wiki-11520": {
+      "sourceRevisionId": 52224,
+      "translatedText": "Uma fonte de luz química, utiliza biomassa com pigmentos fluorescentes."
+    },
+    "wiki-11355": {
+      "sourceRevisionId": 53194,
+      "translatedText": "Você será capaz de usar este conjunto de itens para fazer um início rápido em cada novo jogo."
+    },
+    "wiki-14482": {
+      "sourceRevisionId": 53642,
+      "translatedText": "Duas armas em uma: pode alternar entre a espingarda de assalto e os modos da espingarda."
+    },
+    "wiki-2500": {
+      "sourceRevisionId": 54179,
+      "translatedText": "O pináculo da armadura no mundo pós-nuclear. Forjado de aço, protege o seu usuário de todas as ameaças possíveis"
+    },
+    "wiki-11515": {
+      "sourceRevisionId": 37009,
+      "translatedText": "Necessário para a criação de itens simples. Pode ser encontrado na floresta, escolhido não com um machado, mas coletado manualmente."
+    },
+    "wiki-13622": {
+      "sourceRevisionId": 53610,
+      "translatedText": "Uma transfusão de sangue ajudará a restaurar a saúde em tempos difíceis. Criado usando a mochila médica."
+    },
+    "wiki-1030": {
+      "sourceRevisionId": 54116,
+      "translatedText": "Um salva neve vai esmagar os adversários mais temíveis. Além disso, aqueles que têm neve debaixo da camisa podem esperar uma derrota especialmente humilhante."
+    },
+    "wiki-11284": {
+      "sourceRevisionId": 54436,
+      "translatedText": "O quê? Uma televisão de trabalho?"
+    },
+    "wiki-10017": {
+      "sourceRevisionId": 54373,
+      "translatedText": "Um arbusto de morango escondido na relva seca."
+    },
+    "wiki-9276": {
+      "sourceRevisionId": 29719,
+      "translatedText": "É perigoso ir sozinho! Toma isto."
+    },
+    "wiki-12024": {
+      "sourceRevisionId": 50692,
+      "translatedText": "O revólver de cartucho a gás, seus projéteis com toxina adicionada afetam o SNC."
+    },
+    "wiki-10372": {
+      "sourceRevisionId": 54375,
+      "translatedText": "Água limpa sempre e em todos os lugares."
+    },
+    "wiki-7098": {
+      "sourceRevisionId": 55151,
+      "translatedText": "Pode ser aberto imediatamente ou combinado com uma caixa semelhante. Quando combinados, o conteúdo torna-se mais valioso."
+    },
+    "wiki-14991": {
+      "sourceRevisionId": 53489,
+      "translatedText": "Um elegante colete americano à prova de balas. É como se fosses feito de metal!"
+    },
+    "wiki-13594": {
+      "sourceRevisionId": 53512,
+      "translatedText": "O Progress equipe a sua divisão de combate com esta armadura. É até altamente considerado pela misteriosa unidade das forças especiais Vector."
+    },
+    "wiki-3429": {
+      "sourceRevisionId": 51065,
+      "translatedText": "Bom para o trabalho e combate."
+    },
+    "wiki-10419": {
+      "sourceRevisionId": 54377,
+      "translatedText": "Usado para preparar peles."
+    },
+    "wiki-7741": {
+      "sourceRevisionId": 55011,
+      "translatedText": "Um grande caminhão para grandes cargas."
+    },
+    "wiki-8902": {
+      "sourceRevisionId": 28451,
+      "translatedText": "Com a tenda, leva menos tempo para dormir. Você também vai recuperar melhor. Precisa ser lançado antes de usar"
+    },
+    "wiki-15784": {
+      "sourceRevisionId": 56536,
+      "translatedText": "Extremamente eficaz contra alvos com alta armadura."
+    },
+    "wiki-11325": {
+      "sourceRevisionId": 53690,
+      "translatedText": "Uma corrente inesgotável de aranhas venenosas vem desta arma. Os inimigos só gritarão de terror quando centenas de corpos os cobrirem."
+    },
+    "wiki-15803": {
+      "sourceRevisionId": 56630,
+      "translatedText": "Engrenagem para trabalhar em condições especiais: aumento da resistência à radiação, defesa adicional e experiência ao combater biomutantes."
+    },
+    "wiki-15270": {
+      "sourceRevisionId": 54578,
+      "translatedText": "Desbloqueia um espaço adicional para quebra de cofre e leitura."
+    },
+    "wiki-14980": {
+      "sourceRevisionId": 54579,
+      "translatedText": "Uma excelente escolha para breves assaltos. O alto recuo reduz a precisão durante longas explosões de fogo."
+    },
+    "wiki-5243": {
+      "sourceRevisionId": 53625,
+      "translatedText": "Florestas e rios não são obstáculo para o lendário navio fantasma. Navegue qualquer curso sobre as terras radioactivas."
+    },
+    "wiki-14973": {
+      "sourceRevisionId": 54580,
+      "translatedText": "O fervor da batalha pode ser intoxicante... A cada tiro, esquecemos as velhas feridas e mal reparamos em novas."
+    },
+    "wiki-10954": {
+      "sourceRevisionId": 35174,
+      "translatedText": "Durante a explosão, processos termodifusivos são iniciados, especialmente eficazes quando em contato com entidades biológicas."
+    },
+    "wiki-2414": {
+      "sourceRevisionId": 7474,
+      "translatedText": "Nunca mais te preocupes com fogueiras!"
+    },
+    "wiki-7552": {
+      "sourceRevisionId": 51032,
+      "translatedText": "Necessário para a criação de couro grosso."
+    },
+    "wiki-5332": {
+      "sourceRevisionId": 51038,
+      "translatedText": "Componente para fabricação e reparo de itens. Feitos de peles grossas."
+    },
+    "wiki-2369": {
+      "sourceRevisionId": 52210,
+      "translatedText": "Costurar não é para homens. Mas, de momento, não tens escolha."
+    },
+    "wiki-12769": {
+      "sourceRevisionId": 56581,
+      "translatedText": "Fundida na oficina de Chelyabinsk."
+    },
+    "wiki-3991": {
+      "sourceRevisionId": 53495,
+      "translatedText": "Minado perto de Magnitogorsk."
+    },
+    "wiki-16036": {
+      "sourceRevisionId": 57093,
+      "translatedText": "Permite restaurar 2-6 AP no próximo turno uma vez por batalha. Além disso, concede +10% de danos a qualquer arma Jackpot!"
+    },
+    "wiki-4433": {
+      "sourceRevisionId": 53212,
+      "translatedText": "Uma simples fonte de luz irá ajudá-lo a procurar à noite."
+    },
+    "wiki-5412": {
+      "sourceRevisionId": 16977,
+      "translatedText": "Ele permite que você leve significativamente mais itens enquanto você está usando-o"
+    },
+    "wiki-13356": {
+      "sourceRevisionId": 42515,
+      "translatedText": "O suco de cogumelos amarelos misturados com água radioativa produz luz suficiente para procurar à noite."
+    },
+    "wiki-14643": {
+      "sourceRevisionId": 56515,
+      "translatedText": "Gases venenosos destroem o sistema imunológico dos adversários. Vítimas de uma explosão de Toxigen sofrerão maiores danos por venenos."
+    },
+    "wiki-1505": {
+      "sourceRevisionId": 4632,
+      "translatedText": "Uma nota que levará ao local secreto da tríade."
+    },
+    "wiki-1614": {
+      "sourceRevisionId": 53631,
+      "translatedText": "Reduz o desgaste do veículo escolhido. O kit de reparo não consegue reparar um veículo totalmente danificado."
+    },
+    "wiki-9930": {
+      "sourceRevisionId": 31571,
+      "translatedText": "Aparentemente, estes são os restos de uma parede colapsada - há muitos tijolos visíveis na enorme pilha."
+    },
+    "wiki-5335": {
+      "sourceRevisionId": 53632,
+      "translatedText": "Um meio mágico de transporte para verdadeiros heróis de contos de fadas."
+    },
+    "wiki-731": {
+      "sourceRevisionId": 54341,
+      "translatedText": "Todos os tipos de pirulitos e outros doces."
+    },
+    "wiki-1862": {
+      "sourceRevisionId": 55235,
+      "translatedText": "Troféus obtidos em confronto com a tríade."
+    },
+    "wiki-15710": {
+      "sourceRevisionId": 56387,
+      "translatedText": "Contém uma variedade de itens úteis e tesouros do Reino Médio. Deve ser aberto no acampamento."
+    },
+    "wiki-12129": {
+      "sourceRevisionId": 54386,
+      "translatedText": "Evidências de que os cientistas também sabem relaxar."
+    },
+    "wiki-8230": {
+      "sourceRevisionId": 53681,
+      "translatedText": "Um rifle laser alimentado por amplificadores de tubos. É mágico! Danos adicionais ao inimigo perto do alvo."
+    },
+    "wiki-13732": {
+      "sourceRevisionId": 50738,
+      "translatedText": "rifle de precisão de grande calibre, aprimorado com tecnologias de Progress únicas."
+    },
+    "wiki-15008": {
+      "sourceRevisionId": 53975,
+      "translatedText": "Um convertiplane ocidental, sequestrado por contrabandistas à deriva em um porta-aviões."
+    },
+    "wiki-6591": {
+      "sourceRevisionId": 50886,
+      "translatedText": "A unidade das forças especiais \"Vector\" está armada com espingardas de assalto. Talvez seja por isso que os seus escoteiros e navegadores são tão eficazes em combate."
+    },
+    "wiki-10050": {
+      "sourceRevisionId": 31970,
+      "translatedText": "Reduz o desgaste do veículo escolhido. O kit de reparo não pode reparar um veículo totalmente quebrado."
+    },
+    "wiki-15204": {
+      "sourceRevisionId": 56613,
+      "translatedText": "O nome nesta etiqueta é ilegível, mas o barman do povoado jurou que apenas um frasco o colocou de pé depois de uma mordida de um texugo radioativo."
+    },
+    "wiki-12794": {
+      "sourceRevisionId": 56621,
+      "translatedText": "Sobe e acelera para o teu Natal mais elegante de sempre."
+    },
+    "wiki-10863": {
+      "sourceRevisionId": 34912,
+      "translatedText": "Este isqueiro lembra-me a altura em que salvei a Gena, o tipo da Tula. Salvei-lhe a vida e impedi-o de se tornar assassino."
+    },
+    "wiki-13949": {
+      "sourceRevisionId": 55018,
+      "translatedText": "No arsenal das forças especiais soviéticas demonstraram maravilhas de precisão e alcance."
+    },
+    "wiki-14963": {
+      "sourceRevisionId": 54582,
+      "translatedText": "Excelente para terminar alvos feridos."
+    },
+    "wiki-2043": {
+      "sourceRevisionId": 54200,
+      "translatedText": "Feitos para conquistar as terras desoladas."
+    },
+    "wiki-7425": {
+      "sourceRevisionId": 55368,
+      "translatedText": "Ajuda a coletar água limpa."
+    },
+    "wiki-7914": {
+      "sourceRevisionId": 53575,
+      "translatedText": "Vai reduzir o desgaste da arma escolhida. O kit de reparo não consegue reparar uma arma quebrada."
+    },
+    "wiki-15517": {
+      "sourceRevisionId": 55050,
+      "translatedText": "Permite usar o cadáver de loucos como combustível para a fogueira."
+    },
+    "wiki-2655": {
+      "sourceRevisionId": 54350,
+      "translatedText": "Cerveja mágica para os mais fortes."
+    },
+    "wiki-6108": {
+      "sourceRevisionId": 53653,
+      "translatedText": "Cria rolagem de feitiçaria aleatória se dados os recursos e vontade."
+    },
+    "wiki-738": {
+      "sourceRevisionId": 53547,
+      "translatedText": "Feitiçaria concede a forma e a força de um lobisomem."
+    },
+    "wiki-14689": {
+      "sourceRevisionId": 51860,
+      "translatedText": "Um poderoso respingo ácido queima e envenena um pequeno grupo de oponentes."
+    },
+    "wiki-7900": {
+      "sourceRevisionId": 55322,
+      "translatedText": "É um kit de ferramentas estacionário. Não se desgasta. É essencial para a construção."
+    },
+    "wiki-7282": {
+      "sourceRevisionId": 53595,
+      "translatedText": "Os caçadores duros do Norte Selvagem têm sempre esta pistola à mão. Por precaução."
+    },
+    "wiki-6896": {
+      "sourceRevisionId": 55003,
+      "translatedText": "Um carro soviético eficiente em combustível."
+    },
+    "wiki-11183": {
+      "sourceRevisionId": 35848,
+      "translatedText": "Você pode usá-lo para montar um veículo ou cortá-lo para sucata"
+    },
+    "wiki-14849": {
+      "sourceRevisionId": 54583,
+      "translatedText": "O melhor amigo de um lutador ágil! Mova-se e esquive como você atirar adversários."
+    }
+  }
+}

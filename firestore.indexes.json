@@ -1,0 +1,10 @@
+{
+  "indexes": [
+    { "collectionGroup": "requests", "queryScope": "COLLECTION", "fields": [{ "fieldPath": "clanId", "order": "ASCENDING" }, { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "createdAt", "order": "DESCENDING" }] },
+    { "collectionGroup": "trades", "queryScope": "COLLECTION", "fields": [{ "fieldPath": "clanId", "order": "ASCENDING" }, { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "createdAt", "order": "DESCENDING" }] },
+    { "collectionGroup": "tutorials", "queryScope": "COLLECTION", "fields": [{ "fieldPath": "clanId", "order": "ASCENDING" }, { "fieldPath": "status", "order": "ASCENDING" }, { "fieldPath": "updatedAt", "order": "DESCENDING" }] },
+    { "collectionGroup": "inventories", "queryScope": "COLLECTION", "fields": [{ "fieldPath": "clanId", "order": "ASCENDING" }, { "fieldPath": "itemId", "order": "ASCENDING" }, { "fieldPath": "updatedAt", "order": "DESCENDING" }] },
+    { "collectionGroup": "notifications", "queryScope": "COLLECTION", "fields": [{ "fieldPath": "clanId", "order": "ASCENDING" }, { "fieldPath": "userId", "order": "ASCENDING" }, { "fieldPath": "createdAt", "order": "DESCENDING" }] }
+  ],
+  "fieldOverrides": []
+}
